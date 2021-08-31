@@ -15,7 +15,8 @@ class command(commands.Cog, name="pp"):
     @commands.command()
     async def pp(self, ctx, *, user: discord.User=None):
         if user == None: user = ctx.message.author
-        if user.id == 609551301730369547 or user.id == 818236132578820126 or user.id == 484170415720235009 or user.id == 824324885379416106:
+        ids = [609551301730369547, 818236132578820126, 484170415720235009, 824324885379416106, 760602301790158868, 846298981797724161]
+        if user.id in ids:
             ppsize = "∞"
             ppsize_inch = "∞"
             colour_hex = '%02x%02x%02x' % ( int(231), int(145), int(255) )
