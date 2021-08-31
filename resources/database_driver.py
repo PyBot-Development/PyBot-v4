@@ -165,5 +165,5 @@ async def ADD_CHANNEL(channel, author):
         return True
 
 async def CHANNEL_CHECK(channel):
-    i = c.execute(f"SELECT * FROM banned_channels WHERE id=?", (str(channel.id), ))
+    i = c.execute(f"SELECT * FROM banned_channels WHERE id=?", (str(channel.id), )).fetchone()
     return not i == None
