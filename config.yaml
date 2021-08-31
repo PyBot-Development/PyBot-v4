@@ -1,0 +1,12 @@
+# BOT
+token: ODA1OTMwNzY5NTk1NjI5NTk4.YJlwlA.KXrjBQM6ceufi3Ig718zEwz7AsY
+self-bot: True
+prefix: "b!"
+cooldown: 2
+debug: True
+
+# Errors
+No_Perms: "\U0001f511 You have no permissions to do that."
+Command_Not_Found: "\u2753 Command `{}` not found."
+Command_On_Cooldown: "\U0001F552 Command is on cooldown. Try again in {:.2f}s."
+Unknown_Error: "\u2757 {}"
