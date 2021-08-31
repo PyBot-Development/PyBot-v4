@@ -6,8 +6,8 @@ async def generate(text, bottom_text=""):
     if len(text) > 20 or len(bottom_text) > 30:
         return False
     W, H = (582,975)
-    font_ = ImageFont.truetype(f"{support.path}/resources/fonts/NotoSansJP/NotoSansJp-Medium.otf", 50)
-    font__ = ImageFont.truetype(f"{support.path}/resources/fonts/NotoSansJP/NotoSansJp-Medium.otf", 30)
+    font_ = ImageFont.truetype(f"{support.path}/resources/fonts/NotoSansJP/NotoSansJP-Medium.otf", 50)
+    font__ = ImageFont.truetype(f"{support.path}/resources/fonts/NotoSansJP/NotoSansJP-Medium.otf", 30)
     img = Image.open(f"{support.path}/resources/templates/can_template.png")
 
     draw = ImageDraw.Draw(img)
