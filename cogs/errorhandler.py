@@ -18,13 +18,13 @@ class command(commands.Cog):
         time = datetime.utcnow()
         time = f"{time.hour:02d}:{time.minute:02d}:{time.second:02d}.{time.microsecond:06d}"
         if isinstance(error, commands.CommandOnCooldown):
-            await ctx.send(embed=discord.Embed(description=support.config.get("Command_On_Cooldown").format(error.retry_after), color=colours.yellow), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"🕰️ That command is ratelimited, try again in {error.retry_after:.2f}s.", color=colours.yellow), delete_after=10)
             return
         elif isinstance(error, commands.CheckFailure): return
         elif isinstance(error, CommandNotFound):
             cmd = str(ctx.message.content).split(self.prefix)
             cmd = cmd[1].split(" ")
-            await ctx.send(embed=discord.Embed(description=support.config.get("Command_Not_Found").format(cmd[0]), color=colours.red), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"❔ Command `{cmd[0]}` not found.", color=colours.red), delete_after=10)
             return
         elif isinstance(error, commands.MissingRequiredArgument):
             #help(ctx.command, _prefix)
@@ -32,7 +32,7 @@ class command(commands.Cog):
             return
         else:
             print(f"{Back.BLACK}{Fore.WHITE}{time}{Style.RESET_ALL} {Fore.RED}{Back.LIGHTBLACK_EX}[ERROR]{Style.RESET_ALL} {error}")
-            await ctx.send(embed=discord.Embed(description=support.config.get("Unknown_Error").format(error), color=colours.red), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"❔ {error}", color=colours.red), delete_after=10)
             #raise error
             return
 
