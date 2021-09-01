@@ -167,3 +167,12 @@ async def ADD_CHANNEL(channel, author):
 async def CHANNEL_CHECK(channel):
     i = c.execute(f"SELECT * FROM banned_channels WHERE id=?", (str(channel.id), )).fetchone()
     return not i == None
+
+async def GET_ALL_ADMINS():
+    i = c.execute(f"SELECT * FROM users WHERE admin='1'").fetchall()
+    return i
+
+async def GET_ALL_BANNED():
+    i = c.execute(f"SELECT * FROM users WHERE banned='1'").fetchall()
+    return i
+

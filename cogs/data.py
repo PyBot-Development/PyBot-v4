@@ -15,7 +15,7 @@ class command(commands.Cog, name="data"):
             user = ctx.message.author
         else:
             user = await commands.UserConverter().convert(ctx, user)
-
+        await database_driver.CHECK_TEMPBAN(user)
         r = await database_driver.GET_USER_DATA(user)
         if not not int(r[3]) != False:
             if r[7] == "Null":

@@ -2,7 +2,7 @@ from PIL import Image, ImageFont, ImageDraw
 try: from resources import support
 except: import support
 
-async def generate(text, bottom_text=""):
+async def GENERATE_CAN(name, text, bottom_text=""):
     if len(text) > 20 or len(bottom_text) > 30:
         return False
     W, H = (582,975)
@@ -17,5 +17,5 @@ async def generate(text, bottom_text=""):
     draw.text(((W-w)/2, 300), text, (255,255,0), font=font_)
     draw.text(((W-w2)/2, 700), bottom_text, (0,0,0), font=font__)
 
-    img.save(f"{support.path}/data/temp/can.png")
-    return(f"{support.path}/data/temp/can.png")
+    img.save(f"{support.path}/data/temp/{name}.png")
+    return(f"{support.path}/data/temp/{name}.png")
