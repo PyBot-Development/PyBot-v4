@@ -10,7 +10,7 @@ class command(commands.Cog):
         self.already_sent = False
     @commands.Cog.listener()
     async def on_message(self, message):
-        if message.author.id == self.bot.user.id:
+        if message.author.id == self.bot.user.id or await database_driver.ADMIN_CHECK(message.author):
             return True
         def _check(m):
             return (m.author == message.author 

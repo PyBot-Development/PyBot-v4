@@ -8,12 +8,22 @@ class command(commands.Cog, name="badword"):
         self.client = client
     @checks.log()
     @checks.default()
-    @checks.admin()
     @cooldown(1, support.cooldown, BucketType.user)
-    @commands.group()
+    @commands.group(aliases=["badwords", "bw"])
     async def badword(self, ctx):
         if ctx.invoked_subcommand is None:
             await ctx.send('Invalid sub command passed...')
+    @badword.group()
+    async def list(self, ctx):
+        bdwords=""
+        for item in await database_driver.GET_BADWORDS():
+            bdwords += (f"`{item}`:`{await database_driver.WHO_CREATED_BADWORD(item)}`, ")
+        channel=await ctx.message.author.create_dm()
+        await channel.send(embed=discord.Embed(
+            title="Badwords",
+            description=f"{bdwords[:-2]}.",
+            color=colours.blue
+        ))
     @checks.admin()
     @badword.group()
     async def add(self, ctx, *, word):

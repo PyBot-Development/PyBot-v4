@@ -23,7 +23,7 @@ class command(commands.Cog, name="hello"):
             return
         if len(colour_send) < 6:
             num = 6 - len(colour_send)
-            for i in range(0, num): colour_send = f"{colour_send}0"
+            for _ in range(num): colour_send = f"{colour_send}0"
         colour_int = int(colour_send, 16); rgb = tuple(int(colour_send[i:i+2], 16) for i in (0, 2, 4))
         await ctx.trigger_typing()
         async with aiohttp.ClientSession() as session:

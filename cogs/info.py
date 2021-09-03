@@ -16,19 +16,19 @@ class command(commands.Cog, name="info"):
         await channel.send(embed=discord.Embed(
             title="PyBot Info",
             description=f"""
-            **# Versions**
-            Current Version: `1.1.0`.
-            Last Update: `01/09/2021`.
-            Version 1.0.0 deploy date: `31/08/2021`.
+**# Versions**
+Current Version: `1.2.0`.
+Last Update: `03/09/2021`.
+Version 1.0.0 deploy date: `31/08/2021`.
 
-            **# Github**
-            Initial Github reop creation date: `30/08/2021`.
-            Contributors: [Me](https://github.com/M2rsho)(<@846298981797724161>).
+**# Github**
+Initial Github reop creation date: `30/08/2021`.
+Contributors: [Me](https://github.com/M2rsho)(<@846298981797724161>).
 
-            **# Bot Info**
-            Commands `{len(self.client.commands)}`.
-            Admins `{len(await database_driver.GET_ALL_ADMINS())}`.
-            Banned `{len(await database_driver.GET_ALL_BANNED())}`.""",
+**# Bot Info**
+Commands `{len(self.client.commands)}`.
+Admins `{len(await database_driver.GET_ALL_ADMINS())}`.
+Banned `{len(await database_driver.GET_ALL_BANNED())}`.""",
             color=colours.green
         ))
 

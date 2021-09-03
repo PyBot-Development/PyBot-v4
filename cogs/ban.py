@@ -17,8 +17,8 @@ class command(commands.Cog, name="ban"):
         try:
             channel = await user.create_dm()
             await channel.send(embed=discord.Embed(description=f"""You've been banned from using bot by {ctx.message.author.mention}.
-    Reason: `{reason}`
-    To: Permanent""",color=colours.blue))
+Reason: `{reason}`
+To: Permanent""",color=colours.blue))
         except:
             pass
 

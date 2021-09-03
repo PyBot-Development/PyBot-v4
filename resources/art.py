@@ -1,9 +1,7 @@
 import random as randm
 import json
 json_ = json.load(open("resources/arts.json", encoding="utf8"))
-artlist = []
-for item in json_:
-    artlist.append(json_[item])
+artlist = [json_[item] for item in json_]
 
 def get_art(art_name):
     for item in json_:

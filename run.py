@@ -14,7 +14,7 @@ for filename in os.listdir(f'{support.path}/cogs'):
     if filename.endswith('.py'):
         bot.load_extension(f'cogs.{filename[:-3]}')
         cogscount += 1
-        if not not support.config.get("debug"):
+        if support.config.get("debug"):
             print(f'{Fore.LIGHTCYAN_EX}Loaded extension{Style.RESET_ALL}: {Fore.LIGHTGREEN_EX}{filename[:-3]}{Style.RESET_ALL}')
 print(f"{Fore.LIGHTYELLOW_EX}Loading done, Cogs count: {Fore.LIGHTGREEN_EX}{cogscount} {Style.RESET_ALL}")
 bot.remove_command('purge')

@@ -13,10 +13,7 @@ class command(commands.Cog, name="ops"):
     @commands.command()
     async def ops(self, ctx):
         banlist = await database_driver.GET_OPS()
-        b_list = ""
-        for item in banlist:
-            b_list += (f"<@{item}>, ")
-
+        b_list = "".join(f"<@{item}>, " for item in banlist)
         await ctx.send(embed=discord.Embed(
             title="Opped Users.",
             description=f"{b_list[:-2]}.",

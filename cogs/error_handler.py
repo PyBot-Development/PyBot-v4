@@ -19,23 +19,21 @@ class command(commands.Cog):
         time = f"{time.hour:02d}:{time.minute:02d}:{time.second:02d}.{time.microsecond:06d}"
         if isinstance(error, commands.CommandOnCooldown):
             await ctx.send(embed=discord.Embed(description=f"🕰️ That command is ratelimited, try again in {error.retry_after:.2f}s.", color=colours.yellow), delete_after=10)
-            return
-        elif isinstance(error, commands.CheckFailure): return
+        elif isinstance(error, commands.CheckFailure):
+            pass
         elif isinstance(error, CommandNotFound):
             cmd = str(ctx.message.content).split(self.prefix)
             cmd = cmd[1].split(" ")
             await ctx.send(embed=discord.Embed(description=f"❔ Command `{cmd[0]}` not found.", color=colours.red), delete_after=10)
-            return
         elif isinstance(error, commands.MissingRequiredArgument):
             #help(ctx.command, _prefix)
             await ctx.send(embed=support.cmd_help(str(ctx.command), self.prefix, len(self.bot.all_commands)), delete_after=30)
-            return
         else:
             print(f"{Back.BLACK}{Fore.WHITE}{time}{Style.RESET_ALL} {Fore.RED}{Back.LIGHTBLACK_EX}[ERROR]{Style.RESET_ALL} {error}")
             await ctx.send(embed=discord.Embed(description=f"❔ {error}", color=colours.red), delete_after=10)
             if support.config.get("debug"):
                 raise error
-            return
+        return
 
 def setup(bot):
     bot.add_cog(command(bot))

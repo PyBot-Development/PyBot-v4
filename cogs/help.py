@@ -11,11 +11,9 @@ class command(commands.Cog, name="help"):
     @checks.log()
     @checks.default()
     @cooldown(1, support.cooldown, BucketType.user)
-    @commands.command()
+    @commands.command(aliases=["?"])
     async def help(self, ctx):
-        if isinstance(ctx.channel, discord.channel.DMChannel):
-            pass
-        else:
+        if not isinstance(ctx.channel, discord.channel.DMChannel):
             await ctx.message.add_reaction("✅")
         try:
             channel = await ctx.message.author.create_dm()

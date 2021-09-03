@@ -12,9 +12,9 @@ class command(commands.Cog, name="pp"):
     @checks.log()
     @checks.default()
     @cooldown(1, support.cooldown, BucketType.user)
-    @commands.command()
+    @commands.command(aliases=["dick", "penis", "cock"])
     async def pp(self, ctx, *, user: discord.User=None):
-        if user == None: user = ctx.message.author
+        if user is None: user = ctx.message.author
         ids = [609551301730369547, 818236132578820126, 484170415720235009, 824324885379416106, 760602301790158868, 846298981797724161]
         if user.id in ids:
             ppsize = "∞"
