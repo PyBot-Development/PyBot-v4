@@ -16,8 +16,8 @@ class command(commands.Cog, name="question"):
     @cooldown(1, support.cooldown, BucketType.user)
     @commands.command()
     async def question(self, ctx, times:int=1):
-        if times > 50:
-            await ctx.send(embed=discord.Embed(description=f"❔ Max questions is `50`.", color=colours.red))
+        if times > 30:
+            await ctx.send(embed=discord.Embed(description=f"❔ Max questions is `30`.", color=colours.red))
             return
         questions = "".join(f"\n- {random.choice(self.questions)}" for i in range(times))
         await ctx.send(embed=discord.Embed(
