@@ -1,6 +1,8 @@
 from PIL import Image, ImageFont, ImageDraw
 try: from resources import support
 except: import support
+from gtts import gTTS
+from datetime import datetime
 
 async def GENERATE_CAN(name, text, bottom_text=""):
     if len(text) > 90 or len(bottom_text) > 90:
@@ -31,3 +33,9 @@ async def GENERATE_CAN(name, text, bottom_text=""):
 
     img.save(f"{support.path}/data/temp/{name}.png")
     return(f"{support.path}/data/temp/{name}.png")
+
+async def tts(txt, languag):
+    date = str(datetime.utcnow()).replace(":", "-")
+    speech = gTTS(text = u'{}'.format(txt), lang = languag, slow = False)
+    speech.save(f"{support.path}/data/temp/{date}.mp3")
+    return(f"{support.path}/data/temp/{date}.mp3")
