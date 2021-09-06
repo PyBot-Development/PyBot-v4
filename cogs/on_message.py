@@ -15,11 +15,12 @@ class command(commands.Cog):
         def _check(m):
             return (m.author == message.author 
             and (datetime.utcnow()-m.created_at).seconds < 1.2)
-        if len(list(filter(lambda m:_check(m), self.bot.cached_messages))) >= 3 and not self.already_sent:
-            await message.channel.send(embed=Embed(description=f"Hey! {message.author.mention} stop spamming you fucking cunt!", color=colours.red), delete_after=10)
-            self.already_sent = True
-            await asyncio.sleep(3)
-            self.already_sent = False
+        if await support.antispam():
+            if len(list(filter(lambda m:_check(m), self.bot.cached_messages))) >= 3 and not self.already_sent:
+                await message.channel.send(embed=Embed(description=f"Hey! {message.author.mention} stop spamming you fucking cunt!", color=colours.red), delete_after=10)
+                self.already_sent = True
+                await asyncio.sleep(3)
+                self.already_sent = False
         badwords = await database_driver.GET_BADWORDS()
         msg = message.content
         for letter in [".", ",", ";", ":", "\\", "/", "-", "_", "​", " ", " ", " ", " ", " ", " ", " ", " ", " ", "⠀", " ", f"{support.prefix}"]:

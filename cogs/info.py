@@ -17,7 +17,7 @@ class command(commands.Cog, name="info"):
             title="PyBot Info",
             description=f"""
 **# Versions**
-Current Version: `1.3.1`.
+Current Version: `1.3.2`.
 Last Update: `06/09/2021`.
 Version 1.0.0 deploy date: `31/08/2021`.
 

@@ -14,6 +14,16 @@ config=open(f"{path}/config.yaml")
 config=yaml.load(config, Loader=yaml.FullLoader)
 prefix=config.get("prefix")
 cooldown=config.get("cooldown")
+antispam_on = True
+
+async def antispam():
+    global antispam_on
+    return antispam_on
+
+async def antispam_oo(val):
+    global antispam_on
+    antispam_on = not not val
+    return True
 
 ascii_font = pyfiglet.Figlet(font='roman')
 def change_font(font):
