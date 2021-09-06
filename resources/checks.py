@@ -21,23 +21,29 @@ def log():
 def default():
     async def checks(ctx):
         await database_driver.GET_USER(ctx.message.author)
-        if await database_driver.CHECK_TEMPBAN(ctx.message.author) and not await database_driver.ADMIN_CHECK(ctx.message.author):
+        if await database_driver.ADMIN_CHECK(ctx.message.author):
+            return True
+        if await database_driver.CHECK_TEMPBAN(ctx.message.author):
             await ctx.message.add_reaction("❌")
             await ctx.send(embed=discord.Embed(description="❌ You're banned.",color=colours.red), delete_after=10)
             return False
-        elif await database_driver.BANNED_CHECK(ctx.message.author) and not await database_driver.ADMIN_CHECK(ctx.message.author):
+        elif await database_driver.BANNED_CHECK(ctx.message.author):
             await ctx.message.add_reaction("❌")
             await ctx.send(embed=discord.Embed(description="❌ You're banned.",color=colours.red), delete_after=10)
+            return False
+        elif await database_driver.COMMAND_CHECK(ctx.command):
+            await ctx.message.add_reaction("❌")
+            await ctx.send(embed=discord.Embed(description="❌ This command is disabled.",color=colours.red), delete_after=10)
             return False
         badwords = await database_driver.GET_BADWORDS()
         msg = ctx.message.content
         for letter in [".", ",", ";", ":", "\\", "/", "-", "_", "​", " ", " ", " ", " ", " ", " ", " ", " ", " ", "⠀", " ", f"{support.prefix}{ctx.command}"]:
             msg = msg.replace(letter, "")
-        if any(item.lower() in msg.lower() for item in badwords) and not await database_driver.ADMIN_CHECK(ctx.message.author):
+        if any(item.lower() in msg.lower() for item in badwords):
             await ctx.message.add_reaction("❌")
             await ctx.send(embed=discord.Embed(description="❌ Sorry, but some word isn't allowed here.", color=colours.blue), delete_after=10)
             return False
-        elif await database_driver.CHANNEL_CHECK(ctx.message.channel) and not await database_driver.ADMIN_CHECK(ctx.message.author):
+        elif await database_driver.CHANNEL_CHECK(ctx.message.channel):
             await ctx.message.add_reaction("❌")
             channel=await ctx.message.author.create_dm()
             await channel.send(embed=discord.Embed(description=f"Channel {ctx.message.channel.mention} is not allowed. Try again in different one.", color=colours.blue))

@@ -8,8 +8,7 @@ c = con.cursor()
 c.execute('''CREATE TABLE IF NOT EXISTS users (id text, username text, admin text, banned text, ban_reason text, banned_by text, banned_date text, ban_duration text)''')
 c.execute('''CREATE TABLE IF NOT EXISTS badwords (word text, added_by text)''')
 c.execute('''CREATE TABLE IF NOT EXISTS banned_channels (id text, channel_name text, added_by text)''')
-"""
-c.execute('''CREATE TABLE IF NOT EXISTS disabled_cmds (command text)''')"""
+c.execute('''CREATE TABLE IF NOT EXISTS disabled_cmds (command text, added_by text)''')
 
 async def GET_USER(user):
     u = c.execute(f'''SELECT * FROM users WHERE id="{user.id}"''').fetchone()
@@ -113,17 +112,17 @@ async def GET_OPS():
     return banned
 
 async def REMOVE_BADWORD(word:str):
-    u = c.execute(f'''SELECT * FROM badwords WHERE word=?''', (word, )).fetchone()
+    u = c.execute(f'''SELECT * FROM badwords WHERE word=?''', (word.lower(), )).fetchone()
     if u is None:
         return False
-    c.execute(f'''DELETE FROM badwords WHERE word=?''', (word, ))
+    c.execute(f'''DELETE FROM badwords WHERE word=?''', (word.lower(), ))
     con.commit()
     return True
 
 async def ADD_BADWORD(word, author):
-    u = c.execute(f'''SELECT * FROM badwords WHERE word=?''', (word, )).fetchone()
+    u = c.execute(f'''SELECT * FROM badwords WHERE word=?''', (word.lower(), )).fetchone()
     if u is None:
-        c.execute(f'INSERT INTO badwords VALUES (?, ?)', (str(word), str(author), ))
+        c.execute(f'INSERT INTO badwords VALUES (?, ?)', (str(word.lower()), str(author), ))
         con.commit()
         return True
     else:
@@ -162,3 +161,30 @@ async def GET_ALL_ADMINS():
 async def GET_ALL_BANNED():
     return c.execute(f"SELECT * FROM users WHERE banned='1'").fetchall()
 
+async def ENABLE_COMMAND(cmd:str):
+    u = c.execute(f'''SELECT * FROM disabled_cmds WHERE command=?''', (cmd, )).fetchone()
+    if u is None:
+        return False
+    c.execute(f'''DELETE FROM disabled_cmds WHERE command=?''', (cmd, ))
+    con.commit()
+    return True
+
+async def DISABLE_COMMAND(cmd:str, author):
+    u = c.execute(f'''SELECT * FROM disabled_cmds WHERE command=?''', (cmd, )).fetchone()
+    if u is None:
+        c.execute(f'INSERT INTO disabled_cmds VALUES (?, ?)', (str(cmd), str(author), ))
+        con.commit()
+        return True
+    else:
+        return False
+
+async def GET_COMMANDS():
+    return [row[0] for row in c.execute(f"SELECT command FROM disabled_cmds")]
+
+async def COMMAND_CHECK(cmd):
+    cmd = str(cmd)
+    u = c.execute(f'''SELECT * FROM disabled_cmds WHERE command=?''', (cmd, )).fetchone()
+    return u is not None
+
+async def WHO_CREATED_COMMANDS(cmd:str):
+    return c.execute(f"SELECT added_by FROM disabled_cmds WHERE command=?", (cmd, )).fetchone()[0]
