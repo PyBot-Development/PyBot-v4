@@ -2,7 +2,7 @@ from discord.ext import commands
 import discord
 from resources import checks, support, colours, database_driver
 from discord.ext.commands import cooldown, BucketType
-
+from run import __version__
 class command(commands.Cog, name="info"):
     def __init__(self, client):
         self.client = client
@@ -17,8 +17,8 @@ class command(commands.Cog, name="info"):
             title="PyBot Info",
             description=f"""
 **# Versions**
-Current Version: `1.3.2`.
-Last Update: `06/09/2021`.
+Current Version: `{__version__}`.
+Last Update: `08/09/2021`.
 Version 1.0.0 deploy date: `31/08/2021`.
 
 **# Github**

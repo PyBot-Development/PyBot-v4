@@ -1,9 +1,11 @@
 from datetime import datetime
 from discord import Embed
+from discord.ext.commands.core import check
 import yaml
-import random
-from requests import Session
 import pyfiglet
+import asyncio
+import random
+
 time = datetime.utcnow()
 startup_date = f"{time.day}_{time.month}_{time.year}-{time.hour:02d}-{time.minute:02d}.{time.second:02d}.{time.microsecond:05d}"
 
@@ -40,41 +42,9 @@ def get_font():
 
 _alts = open(f"{path}/data/alts.txt")
 alts = [item for item in _alts]
-def get_alt():
-    """while True:
-        alt = check_alt()
-        print(alt)
-        if not alt:
-            pass
-        else:
-            break"""
-    return random.choice(alts)
-def check_alt():
-    session = Session()
-    _alt = random.choice(alts)
-    alt = _alt.split(":", 1)
-    jsonheaders = {"Content-Type": "application/json", 'Pragma': 'no-cache'}
-    print(alt[0], alt[1])
-    payload = ({
-            'agent': {
-                'name': 'Minecraft',
-                'version': 1
-            },
-            'username': alt[0],
-            'password': alt[1],
-            'requestUser': 'true'
-        })
-    bad = 'Invalid credentials'
-    answer = session.post(url="https://authserver.mojang.com/authenticate", json=payload, headers=jsonheaders, timeout=10000)
-    print(answer.text)
-    if (
-        bad in answer.text
-        or 'Client sent too many requests too fast.' in answer.text
-    ):
-        return False
-    else:
-        return alt
 
+async def get_alt():
+    return random.choice(alts)
 
 def replace_all(text, dic):
     for i, j in dic.items():

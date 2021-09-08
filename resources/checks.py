@@ -2,7 +2,9 @@ from discord.ext import commands
 import discord
 from datetime import datetime
 from colorama import *
-from resources import support, database_driver, colours
+try: from resources import support, database_driver, colours
+except: import support, database_driver, colours
+
 
 def log():
     async def _log(ctx):

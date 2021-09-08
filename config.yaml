@@ -1,6 +1,6 @@
 # BOT
 token: ODA1OTMwNzY5NTk1NjI5NTk4.YJlwlA.KXrjBQM6ceufi3Ig718zEwz7AsY
 self-bot: True
-prefix: "b!"
+prefix: "!"
 cooldown: 2
-debug: True
+debug: False
