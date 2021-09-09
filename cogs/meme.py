@@ -4,7 +4,7 @@ from resources import checks
 from discord.ext.commands import cooldown, BucketType
 from resources import support, colours
 import random
-import praw
+import asyncpraw
 import os
 
 class command(commands.Cog, name="meme"):
@@ -16,7 +16,7 @@ class command(commands.Cog, name="meme"):
                   "ComedyCemetery",
                   "terriblefacebookmemes",
                   "shitposting"]
-        self.reddit = praw.Reddit(client_id=support.config.get("Client_Id"),
+        self.reddit = asyncpraw.Reddit(client_id=support.config.get("Client_Id"),
                      client_secret=support.config.get("Client_Secret"),
                      user_agent=support.config.get("User_Agent"), 
                      check_for_async=False
@@ -26,10 +26,12 @@ class command(commands.Cog, name="meme"):
     @cooldown(1, support.cooldown, BucketType.user)
     @commands.command()
     async def meme(self, ctx, *, subredd=None):
+        msg = await ctx.send("Please wait.. It may take a while. Because reddit api shit.")
         async with ctx.typing():
             topic = random.choice(self.topics) if subredd is None else subredd
-            subreddit = self.reddit.subreddit(topic)
-            meme = subreddit.random()
+            subreddit = await self.reddit.subreddit(topic)
+            await subreddit.load()
+            meme = await subreddit.random()
             if subreddit.over18:
                 await ctx.send(embed=discord.Embed(description=f"🔞 Subreddit is 18+", color=colours.red), delete_after=10)
                 return
@@ -40,6 +42,7 @@ class command(commands.Cog, name="meme"):
                 u/{meme.author.name}""",
                 color=colours.blue
             ).set_image(url=meme.url).set_footer(text=f"Requested by: {ctx.message.author} • ⬆️ {meme.ups} | r/{topic}"))
+            await msg.delete()
             
 def setup(bot):
     bot.add_cog(command(bot))
