@@ -12,7 +12,7 @@ class command(commands.Cog, name="say"):
     @cooldown(1, support.cooldown, BucketType.user)
     @commands.command(aliases=["tell", "sudo"])
     async def say(self, ctx, *, arg):
-        await ctx.send(f"​{arg}")
+        await ctx.send(f"​{arg}".replace("@everyone", "@​everyone").replace("@here", "@​here"))
 
 def setup(bot):
     bot.add_cog(command(bot))

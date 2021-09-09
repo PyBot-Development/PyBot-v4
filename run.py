@@ -14,7 +14,7 @@ __title__ = 'Pybot'
 __author__ = 'mariyt10'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-2021 mariyt10'
-__version__ = '1.4.0'
+__version__ = '1.4.1'
 
 from discord.ext import commands
 import os
@@ -41,7 +41,7 @@ with open(f"logs/{support.startup_date}.log", "a+") as file:
 def bot_run():
     print(f"{Fore.LIGHTMAGENTA_EX}Welcome! Bot is online{Style.RESET_ALL}")
     bot.run(support.config.get("token"), bot=not support.config.get("self-bot"))
-    print(f'{Fore.LIGHTRED_EX}Something Failed.')
+    print(f'{Fore.LIGHTRED_EX}Something Failed.{Style.RESET_ALL}')
 
 if __name__ == "__main__":
     bot_run()

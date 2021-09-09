@@ -1,6 +1,11 @@
 # BOT
-token: ODA1OTMwNzY5NTk1NjI5NTk4.YJlwlA.KXrjBQM6ceufi3Ig718zEwz7AsY
+token: ODA1OTMwNzY5NTk1NjI5NTk4.YToB7A.vrioAzodP-aIVqgMdsggTRFwavU
 self-bot: True
 prefix: "!"
 cooldown: 2
 debug: False
+
+# REDDIT
+Client_Secret: cTwvO_kcTn0_ODvk25LjhPNjNI18GA
+Client_Id: yXZQtks0llJc6YdPdxsrDA
+User_Agent: M2rsho

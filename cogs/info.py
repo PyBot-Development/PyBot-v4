@@ -18,7 +18,7 @@ class command(commands.Cog, name="info"):
             description=f"""
 **# Versions**
 Current Version: `{__version__}`.
-Last Update: `08/09/2021`.
+Last Update: `09/09/2021`.
 Version 1.0.0 deploy date: `31/08/2021`.
 
 **# Github**

@@ -13,7 +13,7 @@ class command(commands.Cog, name="alt"):
     @commands.command()
     async def alt(self, ctx):
         async with ctx.typing():
-            alt = support.get_alt()
+            alt = await support.get_alt()
             channel = await ctx.message.author.create_dm()
             await channel.send(embed=discord.Embed(description=f"||{alt}||", color=colours.blue))
             
