@@ -16,15 +16,17 @@ class command(commands.Cog, name="ban"):
         stamp = stamp.replace("s", "").replace("m", "*60").replace("h", "*3600").replace("d", "*86400")
         stamp = int(eval(stamp))
         _stamp = int(datetime.timestamp(datetime.utcnow()) + int(stamp))
+        duration = f"<t:{int(_stamp)}:f>"
         dt_object = datetime.fromtimestamp(_stamp)
 
         await database_driver.TEMPBAN_USER(user, reason, ctx.message.author, _stamp)
-        await ctx.send(embed=discord.Embed(description=f"✔️ Tempbanned user {user.mention} to {dt_object}.", color=colours.green))
+        await ctx.send(embed=discord.Embed(description=f"✔️ Tempbanned user {user.mention} to {duration}/{dt_object} UTC.", color=colours.green))
         try:
             channel = await user.create_dm()
             await channel.send(embed=discord.Embed(description=f"""You've been banned from using bot by {ctx.message.author.mention}.
 Reason: `{reason}`
-To: {dt_object} UTC""",color=colours.blue))
+To: {duration}
+Or: {dt_object} UTC""",color=colours.blue))
         except:
             pass
 

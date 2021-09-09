@@ -11,7 +11,7 @@ class command(commands.Cog, name="data"):
     @cooldown(1, support.cooldown, BucketType.user)
     @commands.command()
     async def data(self, ctx, *, user=None):
-        if user == None:
+        if user is None:
             user = ctx.message.author
         else:
             user = await commands.UserConverter().convert(ctx, user)
@@ -21,12 +21,13 @@ class command(commands.Cog, name="data"):
             if r[7] == "Null":
                 duration = "Permanent"
             else:
-                duration = datetime.fromtimestamp(int(r[7]))
+                utc_duration = datetime.fromtimestamp(int(r[7]))
+                duration = f"<t:{int(r[7])}:f>"
             rest = f"""
 Ban Reason: `{r[4]}`
 Banned By: {r[5]}
 Ban date: `{r[6]}`
-Ban duration: `{duration}`
+Banned To: {duration} or `{utc_duration}` UTC
 """
         else:
             rest = ""
@@ -37,7 +38,6 @@ Username: `{r[1]}`
 Admin: `{not not int(r[2])}`
 Banned: `{not not int(r[3])}`
 {rest}
-
 """, color=colours.blue).set_footer(text=f"""Requested by: {ctx.message.author} • Today at: {datetime.utcnow().strftime("%X")} UTC"""))
         
 def setup(bot):
