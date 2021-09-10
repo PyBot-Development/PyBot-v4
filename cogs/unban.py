@@ -13,14 +13,14 @@ class command(commands.Cog, name="unban"):
     @commands.command()
     async def unban(self, ctx, user:discord.Member):
         if await database_driver.UNBAN_USER(user):
-            await ctx.send(embed=discord.Embed(description=f"✔️ Unbanned user {user.mention}.", color=colours.green))
+            await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Unbanned user {user.mention}.", color=colours.green))
             try:
                 channel = await user.create_dm()
                 await channel.send(embed=discord.Embed(description=f"""You've been unbanned by {ctx.message.author.mention}.""",color=colours.blue))
             except:
                 pass
         else:
-            await ctx.send(embed=discord.Embed(description=f"❔ User {user.mention} is not banned.", color=colours.red))
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> User {user.mention} is not banned.", color=colours.red))
             return
 
 def setup(bot):

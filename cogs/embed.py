@@ -6,7 +6,6 @@ from discord.ext.commands import cooldown, BucketType
 class command(commands.Cog, name="embed"):
     def __init__(self, client):
         self.client = client
-    
     @checks.log()
     @checks.default()
     @cooldown(1, support.cooldown, BucketType.user)

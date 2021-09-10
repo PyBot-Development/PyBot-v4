@@ -13,7 +13,7 @@ class command(commands.Cog, name="ban"):
     @commands.command()
     async def ban(self, ctx, user:discord.Member, *, reason="No Reason Specified."):
         await database_driver.BAN_USER(user, reason, ctx.message.author)
-        await ctx.send(embed=discord.Embed(description=f"✔️ Banned user {user.mention}.", color=colours.green))
+        await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Banned user {user.mention}.", color=colours.green))
         try:
             channel = await user.create_dm()
             await channel.send(embed=discord.Embed(description=f"""You've been banned from using bot by {ctx.message.author.mention}.

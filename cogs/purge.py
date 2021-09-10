@@ -13,6 +13,6 @@ class command(commands.Cog, name="badword"):
     @commands.command()
     async def purge(self, ctx, limit:int=2):
         try: await ctx.channel.purge(limit=limit)
-        except: await ctx.sen(embed=discord.Embed(description="❔ I've no permission to do that.",color=colours.red))
+        except: await ctx.sen(embed=discord.Embed(description="<:QuestionMark:885978535670464533> I've no permission to do that.",color=colours.red))
 def setup(bot):
     bot.add_cog(command(bot))

@@ -1,6 +1,6 @@
 # BOT
-token: ODA1OTMwNzY5NTk1NjI5NTk4.YToB7A.vrioAzodP-aIVqgMdsggTRFwavU
-self-bot: True
+token: ODg1NjMxMDEzODQ0MjkxNjc0.YTp2Jw.07PBVwN7y_-Yio3uF593J10J-cs
+self-bot: False
 prefix: "!"
 cooldown: 2
 debug: False

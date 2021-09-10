@@ -14,7 +14,7 @@ class command(commands.Cog, name="help"):
     @commands.command(aliases=["?"])
     async def help(self, ctx):
         if not isinstance(ctx.channel, discord.channel.DMChannel):
-            await ctx.message.add_reaction("✅")
+            await ctx.message.add_reaction("<:CheckMark:885980150301351956>")
         try:
             channel = await ctx.message.author.create_dm()
             mariyt = await self.client.fetch_user(846298981797724161)

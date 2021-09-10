@@ -16,7 +16,7 @@ class command(commands.Cog, name="can"):
         async with ctx.typing():
             img = await processing.GENERATE_CAN(ctx.message.author.id, text, bottom_text)
             if not img:
-                await ctx.send(embed=discord.Embed(description="❔ Text and Bottom Text max lenght is 20.", color=colours.red), delete_after=10)
+                await ctx.send(embed=discord.Embed(description="<:QuestionMark:885978535670464533> Text and Bottom Text max lenght is 20.", color=colours.red), delete_after=10)
                 return
             else:
                 file = discord.File(img)

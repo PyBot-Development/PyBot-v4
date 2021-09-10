@@ -18,12 +18,12 @@ class command(commands.Cog, name="hello"):
     @antispam.group(aliases=["on"])
     async def enable(self, ctx):
         await support.antispam_oo(True)
-        await ctx.send(embed=discord.Embed(description=f"✔️ Turned Anti spam `On`.", color=colours.green))
+        await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Turned Anti spam `On`.", color=colours.green))
     @checks.admin()
     @antispam.group(aliases=["off"])
     async def disable(self, ctx):
         await support.antispam_oo(False)
-        await ctx.send(embed=discord.Embed(description=f"✔️ Turned Anti spam `Off`.", color=colours.green))
+        await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Turned Anti spam `Off`.", color=colours.green))
 
 def setup(bot):
     bot.add_cog(command(bot))

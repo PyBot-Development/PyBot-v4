@@ -24,13 +24,13 @@ class command(commands.Cog):
         elif isinstance(error, CommandNotFound):
             cmd = str(ctx.message.content).split(self.prefix)
             cmd = cmd[1].split(" ")
-            await ctx.send(embed=discord.Embed(description=f"❔ Command `{cmd[0]}` not found.", color=colours.red), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> Command `{cmd[0]}` not found.", color=colours.red), delete_after=10)
         elif isinstance(error, commands.MissingRequiredArgument):
             #help(ctx.command, _prefix)
             await ctx.send(embed=support.cmd_help(str(ctx.command), self.prefix, len(self.bot.all_commands)), delete_after=30)
         else:
             print(f"{Back.BLACK}{Fore.WHITE}{time}{Style.RESET_ALL} {Fore.RED}{Back.LIGHTBLACK_EX}[ERROR]{Style.RESET_ALL} {error}")
-            await ctx.send(embed=discord.Embed(description=f"❔ {error}", color=colours.red), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> {error}", color=colours.red), delete_after=10)
             if support.config.get("debug"):
                 raise error
         return

@@ -13,7 +13,7 @@ class command(commands.Cog, name="op"):
     @commands.command()
     async def op(self, ctx, user:discord.Member):
         await database_driver.OP_USER(user)
-        await ctx.send(embed=discord.Embed(description=f"✔️ Opped user {user.mention}.", color=colours.green))
+        await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Opped user {user.mention}.", color=colours.green))
         
 
 def setup(bot):

@@ -8,6 +8,7 @@ import random
 
 time = datetime.utcnow()
 startup_date = f"{time.day}_{time.month}_{time.year}-{time.hour:02d}-{time.minute:02d}.{time.second:02d}.{time.microsecond:05d}"
+startup_timestamp = time.timestamp()
 
 path=f"{__file__}".replace("\\", "/")
 path=path.replace("/resources/support.py", "")

@@ -20,18 +20,18 @@ class command(commands.Cog, name="channel"):
         channel = channel.replace("<#", "").replace(">", "")
         channel = self.client.get_channel(int(channel))
         if await database_driver.ADD_CHANNEL(channel, ctx.message.author):
-            await ctx.send(embed=discord.Embed(description=f"✔️ Added {channel.mention} to disabled channels.", color=colours.green))
+            await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Added {channel.mention} to disabled channels.", color=colours.green))
         else:
-            await ctx.send(embed=discord.Embed(description=f"❔ Channel {channel.mention} is already in disabled channels.", color=colours.red))
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> Channel {channel.mention} is already in disabled channels.", color=colours.red))
     @checks.admin()
     @channel.group()
     async def unban(self, ctx, channel):
         channel = channel.replace("<#", "").replace(">", "")
         channel = self.client.get_channel(int(channel))
         if await database_driver.REMOVE_CHANNEL(channel):
-            await ctx.send(embed=discord.Embed(description=f"✔️ Removed {channel.mention} from disabled channels.", color=colours.green))
+            await ctx.send(embed=discord.Embed(description=f"<:CheckMark:885980150301351956> Removed {channel.mention} from disabled channels.", color=colours.green))
         else:
-            await ctx.send(embed=discord.Embed(description=f"❔ Word {channel.mention} is not in disabled channels.", color=colours.red))
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> Channel {channel.mention} is not in disabled channels.", color=colours.red))
 
 def setup(bot):
     bot.add_cog(command(bot))
