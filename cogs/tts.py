@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, processing
+from resources import checks, support, processing, colours
 from discord.ext.commands import cooldown, BucketType
 import os
 
@@ -13,6 +13,10 @@ class command(commands.Cog, name="tts"):
     @commands.command()
     async def tts(self, ctx, *, text):
         async with ctx.typing():
+            max = 1000
+            if len(str(text)) > max:
+                await ctx.send(embed=discord.Embed(description=f"Max Characters is {max}", color=colours.red))
+                return
             text = text.split("-l")
             text.append("en")
             file = await processing.tts(f"{text[0]}", f"{text[1]}".replace(" ", ""))
