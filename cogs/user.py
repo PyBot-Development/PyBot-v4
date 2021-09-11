@@ -37,11 +37,9 @@ class ExampleCog(Cog):
             await self.interaction.send(content=f"Done!")
         elif self.interaction.custom_id == "op":
             await op.command.op(self, ctx, user)
-            await ctx.send("op")
             await self.interaction.send(content=f"Done!")
         elif self.interaction.custom_id == "deop":
             await deop.command.deop(self, ctx, user)
-            await ctx.send("deop")
             await self.interaction.send(content=f"Done!")
         await message.delete()
 
