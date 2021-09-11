@@ -20,9 +20,12 @@ from discord.ext import commands
 import os
 from colorama import *
 from resources import checks, support
+from discord_components import DiscordComponents, Button
+
 prefix=support.config.get("prefix")
 bot=commands.Bot(command_prefix=commands.when_mentioned_or(prefix), case_insensitive=True)
 bot.remove_command('help')
+DiscordComponents(bot)
 
 if __name__ == "__main__":
     print(f"{Fore.LIGHTYELLOW_EX}Loading cogs... {Fore.LIGHTGREEN_EX}Please wait{Style.RESET_ALL}")

@@ -1,3 +1,4 @@
 cogs/AAA-TEMPLATE.py
 **/__pycache__
 *.pyc
+cogs/test.py
