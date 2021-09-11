@@ -11,14 +11,14 @@ class loop(commands.Cog, name="loop"):
         self.presence.start()
         self.alts = len(support.alts)
         self.startup_timestamp = datetime.datetime.utcnow().timestamp()
-    @tasks.loop(seconds=5.0)
+    @tasks.loop(seconds=10.0)
     async def presence(self):
-
         current_timestamp = datetime.datetime.utcnow().timestamp()
         online_for = current_timestamp-self.startup_timestamp
 
         if support.config.get("debug"):
             print(f"Changed Rich Presence: CPU - {psutil.cpu_percent(2)}%, RAM - {psutil.virtual_memory().percent}%, {datetime.timedelta(seconds=int(online_for))}")
+            return
 
         await self.client.change_presence(activity=discord.Game(name=f"""
         Cpu Usage: {psutil.cpu_percent(2)}%,

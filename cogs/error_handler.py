@@ -7,6 +7,7 @@ import discord
 from resources import support
 from discord.ext.commands import CommandNotFound
 from colorama import *
+from resources import errors
 
 class command(commands.Cog):
     def __init__(self, bot):
@@ -28,9 +29,11 @@ class command(commands.Cog):
         elif isinstance(error, commands.MissingRequiredArgument):
             #help(ctx.command, _prefix)
             await ctx.send(embed=support.cmd_help(str(ctx.command), self.prefix, len(self.bot.all_commands)), delete_after=30)
+        elif isinstance(error, errors.QuestionMarkError):
+            await ctx.send(embed=discord.Embed(description=f"{error} cock", color=colours.red), delete_after=10)
         else:
             print(f"{Back.BLACK}{Fore.WHITE}{time}{Style.RESET_ALL} {Fore.RED}{Back.LIGHTBLACK_EX}[ERROR]{Style.RESET_ALL} {error}")
-            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> {error}", color=colours.red), delete_after=10)
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> {str(error)[29:]}", color=colours.red), delete_after=10)
             if support.config.get("debug"):
                 raise error
         return

@@ -14,7 +14,7 @@ class command(commands.Cog, name="question"):
     @checks.log()
     @checks.default()
     @cooldown(1, support.cooldown, BucketType.user)
-    @commands.command()
+    @commands.command(aliases=["q"])
     async def question(self, ctx, times:int=1):
         if times > 30:
             await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> Max questions is `30`.", color=colours.red))
