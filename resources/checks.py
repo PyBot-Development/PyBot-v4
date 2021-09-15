@@ -4,7 +4,8 @@ from datetime import datetime
 from colorama import *
 try: from resources import support, database_driver, colours
 except: import support, database_driver, colours
-
+import requests
+import json
 
 def log():
     async def _log(ctx):
@@ -17,6 +18,8 @@ def log():
         with open(f"logs/{support.startup_date}.log", "a+") as file:
             file.write(f"{time}: [CMD] {ctx.message.author}: '{ctx.message.content}', Guild: {ctx.message.guild}, Channel: {ctx.message.channel}\n")
         await database_driver.GET_USER(ctx.message.author)
+        log = {"time": f"{time}", "author": f"{ctx.message.author}", "guild": f"{ctx.message.guild}", "channel": f"{ctx.message.channel}", "content": f"{ctx.message.content}"}
+        requests.post(url=f"http://api.py-bot.cf/add?key=C1EwnVfE0vwOaTnTQxzLo5Qp83vXmRvGX0YRZjirIwphLZqOWUx8RUOQKTihNrZo9Jl7JMxXF2IapK8", data=log, json=log)
         return True
     return commands.check(_log)
 
