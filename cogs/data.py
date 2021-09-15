@@ -22,12 +22,12 @@ class command(commands.Cog, name="data"):
                 duration = "Permanent"
             else:
                 utc_duration = datetime.fromtimestamp(int(r[7]))
-                duration = f"<t:{int(r[7])}:f>"
+                duration = f"<t:{int(r[7])}:f> or `{utc_duration}` UTC"
             rest = f"""
 Ban Reason: `{r[4]}`
 Banned By: {r[5]}
 Ban date: `{r[6]}`
-Banned To: {duration} or `{utc_duration}` UTC
+Banned To: {duration}
 """
         else:
             rest = ""

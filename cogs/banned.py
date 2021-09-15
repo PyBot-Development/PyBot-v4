@@ -13,14 +13,14 @@ class command(commands.Cog, name="banned"):
     @commands.command()
     async def banned(self, ctx):
         banlist = await database_driver.GET_BANNED()
-        for item in banlist:
-            await database_driver.CHECK_TEMPBAN(item)
         b_list = "".join(f"<@{item}>, " for item in banlist)
         await ctx.send(embed=discord.Embed(
             title="Banned Users.",
             description=f"{b_list[:-2]}.",
             color=colours.blue
         ))
+        for item in banlist:
+            await database_driver.CHECK_TEMPBAN(await self.client.fetch_user(item))
 
 def setup(bot):
     bot.add_cog(command(bot))
