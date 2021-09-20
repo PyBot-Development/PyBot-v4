@@ -33,7 +33,8 @@ class command(commands.Cog):
             await ctx.send(embed=discord.Embed(description=f"{error} cock", color=colours.red), delete_after=10)
         else:
             print(f"{Back.BLACK}{Fore.WHITE}{time}{Style.RESET_ALL} {Fore.RED}{Back.LIGHTBLACK_EX}[ERROR]{Style.RESET_ALL} {error}")
-            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> {str(error)[29:]}", color=colours.red), delete_after=10)
+            error_ = str(error)[29:] if str(error).lower().startswith("command") else str(error)
+            await ctx.send(embed=discord.Embed(description=f"<:QuestionMark:885978535670464533> {error_}", color=colours.red), delete_after=10)
             if support.config.get("debug"):
                 raise error
         return

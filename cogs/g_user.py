@@ -4,8 +4,8 @@ from discord_components import (
     ButtonStyle,
 )
 import discord
-from resources import checks, support, colours, database_driver
-from cogs import ban, unban, op, deop
+from resources import checks, support, colours, GLOBAL_DATABASE
+from cogs import g_ban, g_unban, g_op, g_deop
 class ExampleCog(Cog):
     def __init__(self, bot):
         self.bot = bot
@@ -16,11 +16,11 @@ class ExampleCog(Cog):
     @checks.admin()
     @checks.default()
     @checks.log()
-    @command(aliases=["u"])
-    async def user(self, ctx, user:discord.User=None):
+    @command(aliases=["gu"])
+    async def guser(self, ctx, user:discord.User=None):
         if user is None:
             user = ctx.message.author
-        message = await ctx.send(embed=discord.Embed(description=f"User {user.mention} managment", color=colours.blue), components=[
+        message = await ctx.send(embed=discord.Embed(description=f"Global User {user.mention} managment", color=colours.blue), components=[
             Button(style=ButtonStyle.red, label="Ban", custom_id="ban"), 
             Button(style=ButtonStyle.green, label="Unban", custom_id="unban"),
             Button(style=ButtonStyle.red, label="Deop", custom_id="deop"),
@@ -30,16 +30,16 @@ class ExampleCog(Cog):
         while self.interaction.user.id != ctx.message.author.id:
             await self.interaction_()
         if self.interaction.custom_id == "ban":
-            await ban.command.ban(self, ctx, user)
+            await g_ban.command.gban(self, ctx, user)
             await self.interaction.send(content=f"Done!")
         elif self.interaction.custom_id == "unban":
-            await unban.command.unban(self, ctx, user)
+            await g_unban.command.gunban(self, ctx, user)
             await self.interaction.send(content=f"Done!")
         elif self.interaction.custom_id == "op":
-            await op.command.op(self, ctx, user)
+            await g_op.command.gop(self, ctx, user)
             await self.interaction.send(content=f"Done!")
         elif self.interaction.custom_id == "deop":
-            await deop.command.deop(self, ctx, user)
+            await g_deop.command.gdeop(self, ctx, user)
             await self.interaction.send(content=f"Done!")
         await message.delete()
 

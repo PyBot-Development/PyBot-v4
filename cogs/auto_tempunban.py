@@ -1,6 +1,6 @@
 from discord.ext import commands, tasks
 import discord
-from resources import support, database_driver
+from resources import support, GLOBAL_DATABASE
 
 class loop(commands.Cog, name="loop"):
     def __init__(self, client):
@@ -8,9 +8,9 @@ class loop(commands.Cog, name="loop"):
         self.autotempunban.start()
     @tasks.loop(minutes=2)
     async def autotempunban(self):
-        for i in await database_driver.GET_BANNED():
+        for i in await GLOBAL_DATABASE.GET_BANNED():
             user = await self.client.fetch_user(i)
-            await database_driver.CHECK_TEMPBAN(user)
+            await GLOBAL_DATABASE.CHECK_TEMPBAN(user)
     
     @autotempunban.before_loop
     async def before_presence(self):

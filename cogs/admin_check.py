@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, database_driver
+from resources import checks, support, GLOBAL_DATABASE
 from discord.ext.commands import cooldown, BucketType
 
 class command(commands.Cog, name="admin_check"):
@@ -11,7 +11,7 @@ class command(commands.Cog, name="admin_check"):
     @cooldown(1, support.cooldown, BucketType.user)
     @commands.command()
     async def admin_check(self, ctx):
-        r = await database_driver.ADMIN_CHECK(ctx.message.author)
+        r = await GLOBAL_DATABASE.ADMIN_CHECK(ctx.message.author)
         await ctx.send(r)
 
 def setup(bot):

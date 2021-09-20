@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, database_driver, colours
+from resources import checks, support, GLOBAL_DATABASE, colours
 from discord.ext.commands import cooldown, BucketType
 
 class command(commands.Cog, name="badword"):

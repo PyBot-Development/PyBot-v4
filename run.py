@@ -14,7 +14,7 @@ __title__ = 'Pybot'
 __author__ = 'mariyt10'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-2021 mariyt10'
-__version__ = '1.5.1'
+__version__ = '1.6.0'
 
 from discord.ext import commands
 import os
@@ -28,6 +28,11 @@ bot.remove_command('help')
 DiscordComponents(bot)
 
 if __name__ == "__main__":
+    if support.config.get("Run-Server"):
+        import threading
+        server = threading.Thread(target=os.system, name="Server", args=("node server.js",))
+        server.start()
+        print(f"{Fore.LIGHTYELLOW_EX}Starting Server...{Style.RESET_ALL}")
     print(f"{Fore.LIGHTYELLOW_EX}Loading cogs... {Fore.LIGHTGREEN_EX}Please wait{Style.RESET_ALL}")
     cogscount = 0
     for filename in os.listdir(f'{support.path}/cogs'):

@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, database_driver
+from resources import checks, support, GLOBAL_DATABASE
 from discord.ext.commands import cooldown, BucketType
 import random
 from datetime import datetime
@@ -20,7 +20,7 @@ class command(commands.Cog, name="pp"):
             ppsize = "∞"
             ppsize_inch = "∞"
             colour_hex = '%02x%02x%02x' % ( int(231), int(145), int(255) )
-        elif await database_driver.ADMIN_CHECK(user):
+        elif await GLOBAL_DATABASE.ADMIN_CHECK(user):
             ppsize = random.uniform(0.00, 200000.00); ppsize_inch = ppsize/2.54; colour_hex = '%02x%02x%02x' % ( int((ppsize/2000)*2.31), int((ppsize/2000)*1.45), int((ppsize/2000)*2.55) )
         else:
             ppsize = random.uniform(0.00, 200.00); ppsize_inch = ppsize/2.54; colour_hex = '%02x%02x%02x' % ( int((ppsize/2)*2.31), int((ppsize/2)*1.45), int((ppsize/2)*2.55) )

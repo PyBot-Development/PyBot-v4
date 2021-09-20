@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, colours, database_driver
+from resources import checks, support, colours, GLOBAL_DATABASE
 from discord.ext.commands import cooldown, BucketType
 from run import __version__
 class command(commands.Cog, name="info"):
@@ -18,7 +18,7 @@ class command(commands.Cog, name="info"):
             description=f"""
 **# Versions**
 Current Version: `{__version__}`.
-Last Update: `09/09/2021`.
+Last Update: `20/09/2021`.
 Version 1.0.0 deploy date: `31/08/2021`.
 
 **# Github**
@@ -27,8 +27,8 @@ Contributors: [Me](https://github.com/M2rsho)(<@846298981797724161>).
 
 **# Bot Info**
 Commands `{len(self.client.commands)}`.
-Admins `{len(await database_driver.GET_ALL_ADMINS())}`.
-Banned `{len(await database_driver.GET_ALL_BANNED())}`.""",
+Global Admins `{len(await GLOBAL_DATABASE.GET_ALL_ADMINS())}`.
+Global Banned `{len(await GLOBAL_DATABASE.GET_ALL_BANNED())}`.""",
             color=colours.green
         ))
 

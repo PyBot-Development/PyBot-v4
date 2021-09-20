@@ -1,6 +1,6 @@
 from discord.ext import commands
 import discord
-from resources import checks, support, database_driver, colours
+from resources import checks, support, GLOBAL_DATABASE, colours
 from discord.ext.commands import cooldown, BucketType
 from datetime import datetime
 class command(commands.Cog, name="data"):
@@ -15,8 +15,8 @@ class command(commands.Cog, name="data"):
             user = ctx.message.author
         else:
             user = await commands.UserConverter().convert(ctx, user)
-        await database_driver.CHECK_TEMPBAN(user)
-        r = await database_driver.GET_USER_DATA(user)
+        await GLOBAL_DATABASE.CHECK_TEMPBAN(user)
+        r = await GLOBAL_DATABASE.GET_USER_DATA(user)
         if not not int(r[3]) != False:
             if r[7] == "Null":
                 duration = "Permanent"
