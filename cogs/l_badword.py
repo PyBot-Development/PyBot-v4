@@ -12,7 +12,7 @@ class command(commands.Cog, name="badword"):
     @commands.guild_only()
     @commands.group(aliases=["badwords", "bw"])
     async def badword(self, ctx):
-        LOCAL_DATABASE.GUILD_CHECK(ctx.message.guild)
+        await LOCAL_DATABASE.GUILD_CHECK(ctx.message.guild)
         if ctx.invoked_subcommand is None:
             bdwords=""
             for item in await LOCAL_DATABASE.GET_BADWORDS(ctx.message.guild):
