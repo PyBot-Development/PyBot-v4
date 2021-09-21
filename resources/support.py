@@ -74,14 +74,12 @@ def cmd_help(cmd, prefix, commands_l):
     commands = {
         "Template": Embed(
             title=f"{prefix}{cmd} • Help",
-            description=f"""Description""",
+            description='Description',
             color=0x2E66FF,
         ),
         "list": Embed(
             title="Command List.",
-            description=f"""
-[Commands List](https://py-bot.cf/commands)
-""",
+            description='\x1f[Commands List](https://py-bot.cf/commands)\x1f',
             color=0xFFF94D,
         ),
         "say": Embed(
@@ -505,5 +503,6 @@ Aliases: `react`.""",
             color=0x2E66FF,
         ),
     }
+
 
     return commands.get(r_cmd.lower(), Embed(title=f"Command '`{cmd}`' not found.", color=0xfff94d))

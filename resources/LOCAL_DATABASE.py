@@ -85,7 +85,7 @@ async def CHECK_TEMPBAN(guild, user):
     u = c.execute(f'''SELECT * FROM {await GET_GUILD_LETTERS(guild.id)}users WHERE id="{user.id}"''').fetchone()
     if (
         u is not None
-        and await BANNED_CHECK(user)
+        and await BANNED_CHECK(guild, user)
         and c.execute(
             f'''SELECT ban_duration FROM {await GET_GUILD_LETTERS(guild.id)}users WHERE id="{user.id}"'''
         ).fetchone()[0]
