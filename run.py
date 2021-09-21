@@ -30,7 +30,7 @@ DiscordComponents(bot)
 if __name__ == "__main__":
     if support.config.get("Run-Server"):
         import threading
-        server = threading.Thread(target=os.system, name="Server", args=("node server.js",))
+        server = threading.Thread(target=os.system, name="Server", args=("sudo node server.js",))
         server.start()
         print(f"{Fore.LIGHTYELLOW_EX}Starting Server...{Style.RESET_ALL}")
     print(f"{Fore.LIGHTYELLOW_EX}Loading cogs... {Fore.LIGHTGREEN_EX}Please wait{Style.RESET_ALL}")

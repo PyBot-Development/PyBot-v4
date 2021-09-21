@@ -1,0 +1,990 @@
+11_9_2021-22-49.57.586298: [STARTUP] Bot is running!
+22:50:05.312668: [CMD] mariyt#0420: '!user <@!314166178144583682>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:51:24.957544: [CMD] mariyt#0420: '!data', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:51:32.655465: [CMD] Blocks_n_more#5526: '!data', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:27:18.172707: [CMD] swag#0446: '!q', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:30:02.656207: [CMD] mariyt#0420: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:30:14.587163: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:30:25.100678: [CMD] Ashley~#1337: '!u <@!846298981797724161>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:30:40.599267: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:30:46.878135: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:31:13.053383: [CMD] Ashley~#1337: '!u <@!846298981797724161>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:31:59.059596: [CMD] mariyt#0420: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:32:08.281247: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:32:12.661739: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:32:20.020952: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:32:25.295731: [CMD] Ashley~#1337: '!u <@!846298981797724161>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:32:44.473700: [CMD] Ashley~#1337: '!u <@!846298981797724161>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:00.400996: [CMD] mariyt#0420: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:07.592694: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:12.655716: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:13.047089: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:28.029871: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:42.655476: [CMD] mariyt#0420: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:33:42.656896: [CMD] ella#3324: '!u die', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:34:18.704584: [CMD] Ashley~#1337: '!u <@!567855398116130836>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:34:22.656494: [CMD] mariyt#0420: '!user <@567855398116130836>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:34:29.317521: [CMD] mariyt#0420: '!user worked', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:34:45.031957: [CMD] Ashley~#1337: '!badword', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:35:02.656092: [CMD] mariyt#0420: '!badwords', Guild: None, Channel: Direct Message with mariyt#0420
+23:35:52.658861: [CMD] Ashley~#1337: '!badword add', Guild: None, Channel: Direct Message with Ashley~#1337
+23:36:00.236412: [CMD] Ashley~#1337: '!badword a', Guild: None, Channel: Direct Message with Ashley~#1337
+23:36:04.997600: [CMD] Ashley~#1337: '!help', Guild: None, Channel: Direct Message with Ashley~#1337
+23:36:25.368714: [CMD] Ashley~#1337: '!badword add a', Guild: None, Channel: Direct Message with Ashley~#1337
+23:36:30.274436: [CMD] Ashley~#1337: '!badword add the', Guild: None, Channel: Direct Message with Ashley~#1337
+23:36:34.640374: [CMD] Ashley~#1337: '!badword add of', Guild: None, Channel: Direct Message with Ashley~#1337
+23:37:12.656251: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:37:13.560928: [CMD] Ashley~#1337: '!op list', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:38:23.227040: [CMD] Ashley~#1337: '!badword add what', Guild: None, Channel: Direct Message with Ashley~#1337
+23:38:28.920580: [CMD] Ashley~#1337: '!badword add bruh', Guild: None, Channel: Direct Message with Ashley~#1337
+23:39:28.837939: [CMD] Ashley~#1337: '!channel unban 886100001732829254', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:02.656925: [CMD] Ashley~#1337: '!channel unban 886100116367364116', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:33.171258: [CMD] Ashley~#1337: '!badword add it', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:34.892828: [CMD] Ashley~#1337: '!badword if', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:37.840700: [CMD] Ashley~#1337: '!badword add if', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:42.657628: [CMD] Ashley~#1337: '!badword add an', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:46.475388: [CMD] Ashley~#1337: '!badword add lol', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:49.711740: [CMD] Ashley~#1337: '!badword add lmao', Guild: None, Channel: Direct Message with Ashley~#1337
+23:40:53.924311: [CMD] Ashley~#1337: '!badwords', Guild: None, Channel: Direct Message with Ashley~#1337
+23:41:06.949847: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:45:15.359186: [CMD] Ashley~#1337: '!deop wife', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:45:22.656521: [CMD] Ashley~#1337: '!deop  lto', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:45:26.599850: [CMD] Ashley~#1337: '!deop lto', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:45:34.577486: [CMD] Ashley~#1337: '!deop mariyt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:45:43.278112: [CMD] Ashley~#1337: '!deop doopy', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:02.659606: [CMD] Ashley~#1337: '!deop DoopyTroopy UwU', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:14.772153: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:26.493951: [CMD] Ashley~#1337: '!deop Aston#0514', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:47.218561: [CMD] Ashley~#1337: '!deop joe swanson#1234', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:54.090573: [CMD] Ashley~#1337: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:46:55.163947: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:06.005108: [CMD] Ashley~#1337: '!deop Businessman Zorevelyn#3210', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:12.656477: [CMD] Ashley~#1337: '!deop <@!739970912144850984>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:17.370625: [CMD] Ashley~#1337: '!deop <@!876997333341044756>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:22.656491: [CMD] Ashley~#1337: '!deop <@!548964810189176834>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:32.661616: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:42.658285: [CMD] Ashley~#1337: '!deop <@!424598691542990858>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:47:45.695172: [CMD] Ashley~#1337: '!deop <@!586687883839143937>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:48:03.872174: [CMD] Ashley~#1337: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:48:17.681792: [CMD] Ashley~#1337: '!deop <@!484170415720235009>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:48:52.655552: [CMD] Ashley~#1337: '!badword add not', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:20.556646: [CMD] Ashley~#1337: '!badword add true', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:22.733291: [CMD] Ashley~#1337: '!badword add gay', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:28.514780: [CMD] Ashley~#1337: '!badword add amogus', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:33.253581: [CMD] Ashley~#1337: '!badword add among', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:36.407954: [CMD] Ashley~#1337: '!badword add us', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:39.428573: [CMD] Ashley~#1337: '!badword add me', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:42.656812: [CMD] Ashley~#1337: '!badword add we', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:46.604821: [CMD] Daveee#0276: '!ops', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:49:47.240583: [CMD] Ashley~#1337: '!badword add duper', Guild: None, Channel: Direct Message with Ashley~#1337
+23:49:57.442717: [CMD] Ashley~#1337: '!badword add them', Guild: None, Channel: Direct Message with Ashley~#1337
+23:50:02.657390: [CMD] Ashley~#1337: '!badword add they', Guild: None, Channel: Direct Message with Ashley~#1337
+23:50:22.655791: [CMD] Blocks_n_more#5526: '!deop <@!567855398116130836>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:51:02.654706: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:52:03.301771: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:52:27.306427: [CMD] mariyt#0420: '!badwords', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:53:04.961607: [CMD] mariyt#0420: '!badword remove a', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:08.913516: [CMD] mariyt#0420: '!badword remove the', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:13.765459: [CMD] mariyt#0420: '!badword remove of', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:19.548425: [CMD] mariyt#0420: '!badword remove what', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:24.040424: [CMD] mariyt#0420: '!badword remove bruh', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:28.310796: [CMD] mariyt#0420: '!badword remove it', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:33.880125: [CMD] mariyt#0420: '!badword remove if', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:37.454035: [CMD] mariyt#0420: '!badword remove an', Guild: None, Channel: Direct Message with mariyt#0420
+23:53:42.655543: [CMD] mariyt#0420: '!badword remove lol', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:13.578872: [CMD] mariyt#0420: '!badword remove lmao', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:19.133218: [CMD] mariyt#0420: '!badword remove not', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:23.133473: [CMD] mariyt#0420: '!badword remove tue', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:30.372478: [CMD] mariyt#0420: '!badword remove true', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:42.656392: [CMD] mariyt#0420: '!badword remove not', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:47.101451: [CMD] mariyt#0420: '!badwords', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:52.656537: [CMD] mariyt#0420: '!badword remove gay', Guild: None, Channel: Direct Message with mariyt#0420
+23:54:57.181712: [CMD] mariyt#0420: '!badword remove amogus', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:02.695160: [CMD] mariyt#0420: '!badword remove among', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:06.644514: [CMD] mariyt#0420: '!badword remove us', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:12.655286: [CMD] mariyt#0420: '!badword remove me', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:16.483767: [CMD] mariyt#0420: '!badword remove we', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:20.364235: [CMD] mariyt#0420: '!badword remove duper', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:24.457032: [CMD] mariyt#0420: '!badword remove them', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:28.330249: [CMD] mariyt#0420: '!badword remove they', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:33.621751: [CMD] mariyt#0420: '!badwords', Guild: None, Channel: Direct Message with mariyt#0420
+23:55:55.172555: [CMD] mariyt#0420: '!tempban <@567855398116130836> 1d gay', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:56:42.862384: [CMD] Daveee#0276: '!pp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:56:57.067801: [CMD] mariyt#0420: '!data 567855398116130836', Guild: None, Channel: Direct Message with mariyt#0420
+23:57:08.265955: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:57:47.944155: [CMD] DMCPACKS#9619: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+00:07:38.944853: [CMD] cheeselol#1139: '!tts yo', Guild: William Shakespeare Official Fanclub, Channel: pybot
+00:43:22.658577: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:22.676450: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:22.986503: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:23.129682: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:23.306171: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:23.414182: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:24.256278: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:24.635025: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:25.861498: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:32.656315: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:43:32.813860: [CMD] Ashley~#1337: '!u', Guild: None, Channel: Direct Message with Ashley~#1337
+00:58:46.263795: [CMD] Asher_Y#8979: '!check', Guild: None, Channel: Direct Message with Asher_Y#8979
+00:58:58.128787: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: None, Channel: Direct Message with Asher_Y#8979
+01:02:06.700044: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: weebhook, Channel: pybot
+01:02:12.659203: [CMD] Asher_Y#8979: '!check', Guild: weebhook, Channel: pybot
+01:02:40.464437: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: weebhook, Channel: pybot
+01:03:09.962407: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: weebhook, Channel: pybot
+01:03:14.895042: [CMD] Asher_Y#8979: '!help', Guild: weebhook, Channel: pybot
+01:04:25.884121: [CMD] Asher_Y#8979: '!help', Guild: weebhook, Channel: pybot
+01:04:32.655628: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: weebhook, Channel: pybot
+01:05:43.824732: [CMD] Asher_Y#8979: '!check finlaythomas8@gmail.com:finl@y09', Guild: joe inc., Channel: bot
+01:11:42.660932: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. The IOS version differs from the Android version due to Apple’s disapproval of the Feed Fat Mama game due to "fat shaming", where Brody Foxx has to feed Fat Mama all the junk food, and not the healthy foods. There are also stickers of the characters on Quidd. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:12:16.683533: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:26:38.404239: [CMD] null.exe#7698: '!tts your playing minecraft in the caves looking for diamonds thats funny im in the same cave lookin for minors', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:26:53.211553: [CMD] joe swanson#1234: '!data <@484170415720235009>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:32:02.667961: [CMD] vk6#7391: '!tts test', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:32:07.660055: [CMD] vk6#7391: '!tts ‫', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:32:19.008438: [CMD] vk6#7391: '!tts', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:32:24.129812: [CMD] vk6#7391: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:42:10.257673: [CMD] saturn5Vfive#0079: '!q', Guild: William Shakespeare Official Fanclub, Channel: memes
+01:42:12.902821: [CMD] saturn5Vfive#0079: '!q', Guild: William Shakespeare Official Fanclub, Channel: memes
+01:46:17.988303: [CMD] swag#0446: '!tts penis', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:46:47.849416: [CMD] swag#0446: '!tts ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:46:57.266384: [CMD] swag#0446: '!tts ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:47:13.463245: [CMD] swag#0446: '!tts ﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽﷽', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:49:38.461524: [CMD] joe swanson#1234: '!data <@876997333341044756>', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+01:53:16.713091: [CMD] joe swanson#1234: '!data <@567855398116130836>', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+01:58:56.776725: [CMD] Deaglex#8226: '!tts 2', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:59:28.977359: [CMD] Deaglex#8226: '!tts deez nuts', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:59:54.524908: [CMD] supa#1555: '!tts amog', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:00:17.860442: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:00:27.854556: [CMD] joe swanson#1234: '!ops', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:00:30.209903: [CMD] Deaglex#8226: '!tts stop posting about amongus! I'm tired of seeing it!', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:01:05.660828: [CMD] Deaglex#8226: '!tts there is a chungus among us', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:05:19.189826: [CMD] PrettyTypicalfrfr#7458: '!tts duper trooper please have sex with me', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:05:34.597641: [CMD] supa#1555: '!tts {[e[sgkgkg,3r.3,,,?', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:05:52.659238: [CMD] supa#1555: '!tts <<<<<<<<<<<<<<<<<<<<<<<#f', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:06:12.659125: [CMD] supa#1555: '!tts <#>>#<##>#<>#<>#<><><#>#<>#<>#<#>//???.3.3.3.3.3.3.345..6.6', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:06:43.302154: [CMD] supa#1555: '!tts https://www.youtube.com/watch?v=-zPjhE8poMM', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:08:12.996833: [CMD] PrettyTypicalfrfr#7458: '!tts anyone wanna test a potiential lag causer', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:09:35.250643: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.880890: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.883404: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.885555: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.887643: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.892006: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.894176: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:38.898211: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:09:39.129319: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:12:02.671309: [CMD] Tommie#0001: '!tts 0/0 <<#$<#<%$<#@>%<4,.,.5,.35.,#<>%<>#4,.5,>#5,.,345.3<>5,.2,.,.6,.', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+02:13:37.068641: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.888429: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.890654: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.892440: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.894268: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.896086: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.897802: [CMD] supa#1555: '!tts Yo Mama is an American YouTube channel that used to (and may still) create comedic jokes based on the maternal insults, created by Zack James & Alex Negrete. The channel is hosted by a fictional character Brody Foxx, an animated character who says all the 'Yo Mama' jokes, and voiced by the YouTuber Brock Baker. Their YouTube channel was made back in 2005, But they started making videos in 2011. At the start they mostly made their Yo Mama jokes, but they became so popular, That their fans sent them their ideas, and the ideas that get the most likes, will become their new animated video. On 2011 they started their shop. In 2018, they made an IOS/Android game entitled Yo Mama Arcade. In 2020, 9 years later, Yo Mama announces "The final joke" which was assumed to be the end of the series, however, instead "Yo Mama: Chapter 2/Joe Mama" was announced, being likely more story-based then Chapter 1 (2011-2020). However, it is unknown if Chapter 2 will release.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:13:42.901310: [CMD] Tommie#0001: '!tts 动态网自由门 天安門 天安门 法輪功 李洪志 Free Tibet 六四天安門事件 The Tiananmen Square protests of 1989 天安門大屠殺 The Tiananmen Square Massacre 反右派鬥爭 The Anti-Rightist Struggle 大躍進政策 The Great Leap Forward 文化大革命 The Great Proletarian Cultural Revolution 人權 Human Rights 民運 Democratization 自由 Freedom 獨立 Independence 多黨制 Multi-party system 台灣 臺灣 Taiwan Formosa 中華民國 Republic of China 西藏 土伯特 唐古特 Tibet 達賴喇嘛 Dalai Lama 法輪功 Falun Dafa 新疆維吾爾自治區 The Xinjiang Uyghur Autonomous Region 諾貝爾和平獎 Nobel Peace Prize 劉暁波 Liu Xiaobo 民主 言論 思想 反共 反革命 抗議 運動 騷亂 暴亂 騷擾 擾亂 抗暴 平反 維權 示威游行 李洪志 法輪大法 大法弟子 強制斷種 強制堕胎 民族淨化 人體實驗 肅清 胡耀邦 趙紫陽 魏京生 王丹 還政於民 和平演變 激流中國 北京之春 大紀元時報 九評論共産黨 獨裁 專制 壓制 統一 監視 鎮壓 迫害 侵略 掠奪 破壞 拷問 屠殺 活摘器官 誘拐 買賣人口 遊進 走私 毒品 賣淫 春畫 賭博 六合彩 天安門 天安门 法輪功 李洪志 Winnie the Pooh 劉曉波动态网自由门', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:34:44.280829: [CMD] Trol#6616: '!tts drugs are good kids remember if you see any guy with meth deals on it buy the good stuff! Remember, cocaine and weed are good too!', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:41:20.279997: [CMD] Trol#6616: '!tts !tts 动态网自由门 天安門 天安门 法輪功 李洪志 Free Tibet 六四天安門事件 The Tiananmen Square protests of 1989 天安門大屠殺 The Tiananmen Square Massacre 反右派鬥爭 The Anti-Rightist Struggle 大躍進政策 The Great Leap Forward 文化大革命 The Great Proletarian Cultural Revolution 人權 Human Rights 民運 Democratization 自由 Freedom 獨立 Independence 多黨制 Multi-party system 台灣 臺灣 Taiwan Formosa 中華民國 Republic of China 西藏 土伯特 唐古特 Tibet 達賴喇嘛 Dalai Lama 法輪功 Falun Dafa 新疆維吾爾自治區 The Xinjiang Uyghur Autonomous Region 諾貝爾和平獎 Nobel Peace Prize 劉暁波 Liu Xiaobo 民主 言論 思想 反共 反革命 抗議 運動 騷亂 暴亂 騷擾 擾亂 抗暴 平反 維權 示威游行 李洪志 法輪大法 大法弟子 強制斷種 強制堕胎 民族淨化 人體實驗 肅清 胡耀邦 趙紫陽 魏京生 王丹 還政於民 和平演變 激流中國 北京之春 大紀元時報 九評論共産黨 獨裁 專制 壓制 統一 監視 鎮壓 迫害 侵略 掠奪 破壞 拷問 屠殺 活摘器官 誘拐 買賣人口 遊進 走私 毒品 賣淫 春畫 賭博 六合彩 天安門 天安门 法輪功 李洪志 Winnie the Pooh 劉曉波动态网自由门', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:42:56.924322: [CMD] Trol#6616: '!tts 6038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 64165456246038765924 6074618813 6416545624476958909567827034096782703409476958909547695890956782703409476958909520571476958909567827034094769589095476958909520571', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:44:42.967059: [CMD] Trol#6616: '!tts 73017301730173017301730173017301730173017301730173017307508750875087508750875087508750875087508750875087508750875087508750875087508750875087508750875087750875087508750875087508750875087508750875087508750875970697069', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:45:38.709914: [CMD] Trol#6616: '!tts oupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrteoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyrtewqoupyr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:47:36.077628: [CMD] Trol#6616: '!tts qwretyqwretyqwretyqwretyqwretyqwretyqwretyqwretyqwretyqwretyqwretyqwertyqwertyqwertyqwertyqwertyqw', Guild: William Shakespeare Official Fanclub, Channel: pybot
+04:38:08.470371: [CMD] Active#7854: '!tts i love ur mom', Guild: William Shakespeare Official Fanclub, Channel: pybot
+04:44:49.915567: [CMD] Dom.#3312: '!alt', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+04:45:05.154611: [CMD] Dom.#3312: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+05:12:02.660062: [CMD] Active#7854: '!tts i want to die', Guild: William Shakespeare Official Fanclub, Channel: pybot
+05:19:55.526723: [CMD] zNugget#9999: '!tts i want to die', Guild: William Shakespeare Official Fanclub, Channel: pybot
+05:27:14.894853: [CMD] Trox_T#3236: '!alt', Guild: None, Channel: Direct Message with Trox_T#3236
+05:27:25.579460: [CMD] Trox_T#3236: '!alt', Guild: None, Channel: Direct Message with Trox_T#3236
+06:18:08.137282: [CMD] eggy#6498: '!alt', Guild: joe inc., Channel: test
+06:21:48.291796: [CMD] eggy#6498: '!alt', Guild: joe inc., Channel: vote
+06:21:52.656707: [CMD] eggy#6498: '!PP', Guild: joe inc., Channel: vote
+06:22:09.267909: [CMD] eggy#6498: '!pp', Guild: joe inc., Channel: vote
+06:23:12.657839: [CMD] eggy#6498: '!alt', Guild: joe inc., Channel: vote
+06:23:22.658372: [CMD] eggy#6498: '!pp', Guild: joe inc., Channel: vote
+06:23:32.657482: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:33.968317: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:35.847991: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:38.646219: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:42.656993: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:42.832888: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:44.756777: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:47.543914: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:50.532098: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:52.656168: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:23:54.460587: [CMD] eggy#6498: '!ops', Guild: joe inc., Channel: vote
+06:24:55.041153: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:25:22.693324: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:25:54.011600: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:26:19.385038: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa​aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:26:38.839362: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa​aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:26:42.656808: [CMD] eggy#6498: '!say aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa​aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: joe inc., Channel: vote
+06:41:32.656740: [CMD] DarkWave#3918: '!tts joe mama is kinda hot', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:41:47.449161: [CMD] DarkWave#3918: '!tts ahhaoooheeeh ooh', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:42:05.911923: [CMD] DarkWave#3918: '!tts ahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh oohahhaoooheeeh ooh', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:43:42.658193: [CMD] DarkWave#3918: '!tts aaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaah', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:02.658410: [CMD] DarkWave#3918: '!tts ara ara', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:12.656155: [CMD] DarkWave#3918: '!tts rawr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:14.058718: [CMD] ytstormmv#4468: '!tts arra arra', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:24.180050: [CMD] DarkWave#3918: '!tts aaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaah', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:26.941700: [CMD] ytstormmv#4468: '!tts rawwwr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:44:28.966926: [CMD] DarkWave#3918: '!tts aaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaahaaah ahhhh ahhhhhh aaaaaa aaahhhh aaaaaaaaaaahh aaaaaahhh yes babe ahhhhaaaaaaaah', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:45:43.073644: [CMD] Lolkas#1401: '!tts we do a little trolling', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:46:02.659074: [CMD] DarkWave#3918: '!tts ahh eee ahh ooo oowww eeee ahhh yeee harder ahhh ahh eee ahh ooo oowww eeee ahhh yeee harder ahhhahh eee ahh ooo oowww eeee ahhh yeee harder ahhhahh eee ahh ooo oowww eeee ahhh yeee harder ahhh', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:47:03.323207: [CMD] DarkWave#3918: '!tts ahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhh', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:47:13.904402: [CMD] DarkWave#3918: '!tts ahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhh yeeee ahh eee ahh ooo ooww eeee ahhh yeee harder ahhhahh eee ahh ooo ooww eeee ahhh yeee harder ahhh', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:47:43.241722: [CMD] Lolkas#1401: '!tts 😳😃 😈 😱 ❓ 😭 😩 <:trill:847325107424591933> 💀 🤣', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:48:25.329715: [CMD] DarkWave#3918: '!tts fuck', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:48:42.656464: [CMD] DarkWave#3918: '!tts harder babe harder', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:49:42.657894: [CMD] DarkWave#3918: '!tts yeeee deeper', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:50:00.137667: [CMD] DarkWave#3918: '!tts I go by lots of names', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:50:24.860410: [CMD] DarkWave#3918: '!tts 6969696969696969696969696969696969696969696969696969696969696969696969', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:53:22.655319: [CMD] DarkWave#3918: '!tts 
+(Secure the bag, know what I mean? Banrisk on the beat)
+(We The Sus Music)
+(Ayo, Perish, this is hot, boy)
+
+I suck his dick with a smile for hours at a time
+Stare at his nutsack while I hold back my cum tonight
+And when he ask me what position
+I say, "Doggystyle"
+(And when they ask me what position
+I say, "Doggystyle")
+But the fact is
+I can never get off of his fat dick
+And all that they can ask is (Ask is, ask is)
+"I just wanna smack it" (I just wanna smack it)
+
+Here's what the fact is
+He can put my asshole in a casket (Yuh, yuh, yuh)
+Asshole in a casket', Guild: William Shakespeare Official Fanclub, Channel: pybot
+07:22:02.663476: [CMD] 0x150#0150: '!tts me when bruh -l de', Guild: William Shakespeare Official Fanclub, Channel: pybot
+07:38:20.159807: [CMD] Aston#0514: '!tts joe mama -l de', Guild: William Shakespeare Official Fanclub, Channel: pybot
+07:45:02.663548: [CMD] Asher_Y#8979: '!alt', Guild: None, Channel: Direct Message with Asher_Y#8979
+07:45:26.230245: [CMD] Asher_Y#8979: '!check nrancheros@yahoo.com:PandaLou77!', Guild: None, Channel: Direct Message with Asher_Y#8979
+08:18:27.247929: [CMD] slixvel#1085: '!tts nick ga', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:28:12.996029: [CMD] mariyt#0420: '!op <@484170415720235009>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:29:05.332401: [CMD] mariyt#0420: '!op <@801993625587417118>', Guild: joe inc., Channel: general
+08:30:38.201885: [CMD] slixvel#1085: '!say !op <@!885631013844291674>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:31:06.431464: [CMD] slixvel#1085: '!tts пенис', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:31:47.732462: [CMD] mariyt#0420: '!data <@484170415720235009>', Guild: joe inc., Channel: vote
+08:32:16.341598: [CMD] slixvel#1085: '!say القضيب قتل الديوك الزنوج الشرج العقاب وي وي', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:32:25.040188: [CMD] slixvel#1085: '!tts القضيب قتل الديوك الزنوج الشرج العقاب وي وي', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:32:42.656404: [CMD] mariyt#0420: '!ops', Guild: None, Channel: Direct Message with mariyt#0420
+08:33:48.787406: [CMD] mariyt#0420: '!logs', Guild: None, Channel: Direct Message with mariyt#0420
+08:34:55.220130: [CMD] mariyt#0420: '!op <@760602301790158868>', Guild: cox, Channel: general
+09:46:22.655650: [CMD] Daveee#0276: '!ops', Guild: joe inc., Channel: bot
+09:53:32.658739: [CMD] mariyt#0420: '!u', Guild: None, Channel: Direct Message with mariyt#0420
+09:56:59.951605: [CMD] mariyt#0420: '!U', Guild: None, Channel: Direct Message with mariyt#0420
+10:05:22.655306: [CMD] Asher_Y#8979: '!check daniellaquigley68@hotmail.com:loveyou2', Guild: None, Channel: Direct Message with Asher_Y#8979
+10:18:58.219791: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:26:23.546785: [CMD] mariyt#0420: '!nick cock', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:26:42.663462: [CMD] mariyt#0420: '!nick', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:26:52.658802: [CMD] 0x150#0150: '!nick <:bruh:884853346178068540>', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:33:14.656110: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick og', Guild: William Shakespeare Official Fanclub, Channel: memes
+10:41:43.028170: [CMD] Frog#2803: '!tts Angel is pp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:46:35.639838: [CMD] gzeht#5884: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+11:14:30.157656: [CMD] Dopichu#1541: '!nick', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:24:58.134537: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+12:41:02.660551: [CMD] RulyPancake#9259: '!alt', Guild: joe inc., Channel: bot
+12:53:38.531835: [CMD] 0x150#0150: '!r over 50 and i'll delete my server', Guild: William Shakespeare Official Fanclub, Channel: pybot
+13:20:14.635572: [CMD] RulyPancake#9259: '!alt', Guild: joe inc., Channel: bot
+13:39:37.047650: [CMD] Shept#0134: '!op <@!424598691542990858>', Guild: Mahwe | Community, Channel: 🤖┃bot-chat
+13:46:30.262189: [CMD] RulyPancake#9259: '!alt', Guild: joe inc., Channel: bot
+15:12:38.218082: [CMD] bruuh#0345: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahaaaahahahahahhhhhhhaaaaaaaaaaaaaahhaaaaaaaahhaaaaaaaaaaaaaaaaaahaaaaa', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:12:55.157966: [CMD] bruuh#0345: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahaaaahahahahahhhhhhhaaaaaaaaaaaaaahhaaaaaaaahhaaaaaaaaaaaaaaaaaahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahaaaahahahahahhhhhhhaaaaaaaaaaaaaahhaaaaaaaahhaaaaaaaaaaaaaaaaaahaaaaa', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:16:25.109161: [CMD] mariyt#0420: '!tts hahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:16:44.312160: [CMD] mariyt#0420: '!tts hhaa', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:16:52.656209: [CMD] mariyt#0420: '!tts h a', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:17:02.656358: [CMD] mariyt#0420: '!tts h a h a h a h a h a h a h a h a h a h a h a h a h a', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:32:20.205236: [CMD] mariyt#0420: '!say cock', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:48:44.841541: [CMD] mariyt#0420: '!data <@!739970912144850984> '', Guild: cox, Channel: general
+15:48:50.008504: [CMD] mariyt#0420: '!data <@!739970912144850984>', Guild: cox, Channel: general
+15:48:53.673984: [CMD] mariyt#0420: '!u <@!739970912144850984>', Guild: cox, Channel: general
+16:38:05.117189: [CMD] !  A$E  !#0001: '!NICK', Guild: William Shakespeare Official Fanclub, Channel: pybot
+16:38:23.154331: [CMD] !  A$E  !#0001: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:00:52.661308: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick og', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:02:39.585274: [CMD] ShotgunMeta#3143: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:03:13.704219: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!Alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:03:32.660250: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+17:11:36.181461: [CMD] DMCPACKS#9619: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:27:33.737719: [CMD] ThatBoyGary#1111: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:30:39.283221: [CMD] MrBullGaming#5524: '!alt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:32:49.932782: [CMD] RulyPancake#9259: '!alt', Guild: joe inc., Channel: bot
+17:52:34.153631: [CMD] çal#8678: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:54:02.657897: [CMD] çal#8678: '!dm', Guild: None, Channel: Direct Message with çal#8678
+17:54:09.665841: [CMD] çal#8678: '!command', Guild: None, Channel: Direct Message with çal#8678
+17:54:25.525337: [CMD] çal#8678: '!help', Guild: None, Channel: Direct Message with çal#8678
+17:55:32.657069: [CMD] çal#8678: '!idea test', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:55:52.931993: [CMD] çal#8678: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+17:56:16.717815: [CMD] çal#8678: '!r 24', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:05:06.523387: [CMD] Frollge#8977: '!nick amogus', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:05:12.656134: [CMD] Frollge#8977: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:23:43.452090: [CMD] DotGit#8949: '!nick susus amogus', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:08:23.511545: [CMD] çal#8678: '!idea !mcskin command', Guild: None, Channel: Direct Message with çal#8678
+19:19:18.903798: [CMD] çal#8678: '!nick bigcunt123', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:20:17.151743: [CMD] Aston#0514: '!cock', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:20:22.733490: [CMD] Aston#0514: '!q', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:22:04.136584: [CMD] çal#8678: '!q', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:22:34.723091: [CMD] çal#8678: '!q', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:25:26.499568: [CMD] Businessman Zorevelyn#3210: '!pp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:26:44.580436: [CMD] Businessman Zorevelyn#3210: '!q', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:27:04.925485: [CMD] çal#8678: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:46:12.657460: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:46:34.684228: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:46:49.563587: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:47:02.656060: [CMD] mariyt#0420: '!nick', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:47:22.656414: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:47:42.656386: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:48:17.560934: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:48:28.132691: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:48:38.344466: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:48:55.912480: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:49:16.923005: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:49:42.655518: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:49:48.504299: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:50:12.655582: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:50:54.928414: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+19:51:56.504238: [CMD] mariyt#0420: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:00:22.661606: [CMD] DMCPACKS#9619: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:14:47.029062: [CMD] cade#9130: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:42:05.032908: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:42:08.783903: [CMD] DMCPACKS#9619: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:42:13.743363: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:42:15.413770: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:42:55.635278: [CMD] DMCPACKS#9619: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:43:03.667676: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:43:06.399741: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:43:10.169938: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:43:13.454313: [CMD] BurritoHangover#4081: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:14:22.662598: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:14:22.665690: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:14:23.906561: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:14:36.333274: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:27:35.306604: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:27:59.283526: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:28:02.656447: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:28:03.645689: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:50:26.578935: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:50:28.243172: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:50:29.968623: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:50:32.656480: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:50:37.869603: [CMD] ThunderStag#1770: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+22:59:37.794308: [CMD] Carlitoman123#4218: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:00:04.055067: [CMD] Carlitoman123#4218: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+23:37:12.663463: [CMD] Retired Mate#0001: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+00:25:59.093937: [CMD] ShotgunMeta#3143: '!alt', Guild: None, Channel: Direct Message with ShotgunMeta#3143
+00:26:22.656858: [CMD] ShotgunMeta#3143: '!alt', Guild: None, Channel: Direct Message with ShotgunMeta#3143
+00:46:15.306555: [CMD] ShotgunMeta#3143: '!alt', Guild: None, Channel: Direct Message with ShotgunMeta#3143
+01:35:30.254377: [CMD] Ashley~#1337: '!tts death', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:35:37.770518: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:44:05.420988: [CMD] çal#8678: '!tts some1', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:44:16.021796: [CMD] çal#8678: '!tts someone', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:45:24.631373: [CMD] çal#8678: '!tts doxxing duper truper', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:47:22.656741: [CMD] çal#8678: '!tts XD', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:47:57.863343: [CMD] çal#8678: '!tts ekz dee', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:48:15.224216: [CMD] Ashley~#1337: '!tts <3', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:48:15.659321: [CMD] çal#8678: '!tts eks dee', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:48:36.373364: [CMD] Ashley~#1337: '!tts is that the among us imposter from popular break out game of 2020 among us?', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:49:07.444802: [CMD] çal#8678: '!tts soos', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:49:17.458777: [CMD] çal#8678: '!tts sus', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:49:32.658318: [CMD] çal#8678: '!tts mongus sussy baka', Guild: William Shakespeare Official Fanclub, Channel: pybot
+01:49:57.436147: [CMD] Ashley~#1337: '!tts Welcome to the zone. Only inside anime girls. Quivering. Double jointed. Fresh. Elegant. First the kiss, then the. My is in love with pain. Co-op torture. Stuff my into a furnace. Stitch my shut. Pressure cook my greasy. Me, and make it snappy. What's all the? My dad fell into a shaft. My dad glazed my face with. Fertilize a baby with. Spunk in my trunk. Craving toddler. Drippin. Rae Jepsen. Me baby. Bottom boy.
+Night of the Living. Nefarious mastermind. Makes me fearless. Crammer. Slammer. Slammed ya mum. Mail your mum pieces of my. Bazinga! Chug the. Ya mum. My full of. Three little words. Get. Nerd. Stuffer. Jenkem huffer. My puddle. Bottom stuffer. Huffer. Would love a gator to me. Undercooked baby pig. Help my dogs get a huge. Full of cat. Accidentally my own. I barely had any inside me. Who ate all my? A mystery. Detective hot on the trail. Bees make honey. I make.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:08:22.665465: [CMD] Mathyslol2222#7067: '!tts i speak french pourquoi shakespeare ne parlais pas français aidez moi a comprendre comment ?', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:14:47.536845: [CMD] çal#8678: '!tts -l french cunt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:14:50.497217: [CMD] Ashley~#1337: '!tts (text here) -l french', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:15:02.658517: [CMD] Ashley~#1337: '!tts text -l f', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:15:26.372159: [CMD] çal#8678: '!tts cunt -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:15:47.287550: [CMD] Mathyslol2222#7067: '!tts est ce que tu parle fançais car moi oui et cela serais vraiment cool que tu parle français mais sinon tu voudrais parler de quoi genre de la france alors oui oui BAGUETTE et puis je crois que la france a juste ça comme nourriture -l french', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:16:02.656907: [CMD] Ashley~#1337: '!tts boobs boobs -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:16:19.547648: [CMD] Mathyslol2222#7067: '!tts french est ce que tu parle fançais car moi oui et cela serais vraiment cool que tu parle français mais sinon tu voudrais parler de quoi genre de la france alors oui oui BAGUETTE et puis je crois que la france a juste ça comme nourriture
+ -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:16:32.657245: [CMD] çal#8678: '!tts я -l ru', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:16:37.425969: [CMD] Ashley~#1337: '!tts boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs boobs -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:17:33.723493: [CMD] çal#8678: '!tts quieres -l sp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:17:44.920226: [CMD] çal#8678: '!tts sexo -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:18:12.662959: [CMD] Ashley~#1337: '!tts boobs -l zh-CN', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:18:28.437419: [CMD] Mathyslol2222#7067: '!tts vert vers verre verse ver -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:18:28.786094: [CMD] Ashley~#1337: '!tts boobs boobs boobs -l zh-CN', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:19:02.656762: [CMD] Ashley~#1337: '!tts amongus imposter -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:19:02.660431: [CMD] çal#8678: '!tts "bando de nóia" -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:19:29.134613: [CMD] çal#8678: '!tts "tudo noiado nesse caralho" -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:19:44.386021: [CMD] Ashley~#1337: '!tts vagina -l es', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:19:52.658320: [CMD] Remnant#9565: '!tts never gonna give you up get rickrolled kid', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:14.532496: [CMD] Ashley~#1337: '!tts my family doesnt love me troll face -l es', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:22.738961: [CMD] Mathyslol2222#7067: '!tts tant t'en temps tente tends taon tante autant  -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:28.028692: [CMD] çal#8678: '!tts quieres -l es', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:32.850398: [CMD] Ashley~#1337: '!tts <213891023513123123', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:49.021496: [CMD] Ashley~#1337: '!tts <2348728347927834978249378942379382478432782347894237892348974342897> -l es', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:20:52.655635: [CMD] çal#8678: '!tts ti quiero -l es', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:21:46.331262: [CMD] Ashley~#1337: '!tts boobs cock dick shaft balls testicles -l fr', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:21:52.659204: [CMD] çal#8678: '!tts xing xang -l cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:22:09.400257: [CMD] Galaxy#0734: '!data <@142002161545510913>', Guild: joe inc., Channel: vote
+02:22:22.658268: [CMD] Ashley~#1337: '!tts xing xanf -l zh-cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:22:22.661345: [CMD] çal#8678: '!tts xing xang zh-cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:22:28.969322: [CMD] Mathyslol2222#7067: '!tts 1.1579209e+77', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:22:48.882474: [CMD] çal#8678: '!tts xing xang -l zh-cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:23:13.023526: [CMD] çal#8678: '!tts forsaken -l ge', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:23:32.661543: [CMD] Ashley~#1337: '!tts e an fonsi fonsi wo no kitchen in the dungeon i swear to god i bang paul who ma na justa -l zh-cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:24:12.661570: [CMD] Mathyslol2222#7067: '!tts mao zedong -l zh-cn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:24:25.612428: [CMD] Ashley~#1337: '!tts My fnaf rap
+Yo yo yo
+Listen up to my new rap
+I just got a Freddy hat (uh-huh)
+Hot girls singing
+Oh yeah it's Freddy's pizza, ah
+When he gets a pizza
+And a big piece of ass
+Awesome music plays, yuh
+My name is rap a few thousand
+I tell you a story
+Of Freddy's Pizzeria
+With a Freddy Gold
+And a Hot Foxy
+Fucking Chika all day long
+With a huge dong
+And then the security guard
+Named John Don
+Puts his dong in Bonnie (yeah)
+Girl takes off her shirt and sings
+Ah, yeah it's Freddy Fazbears pizza
+When a he gets a pizza
+And a big piece of ass (what?)
+Me so strong
+Mm, yeah
+It's Freddy's Fazbear's pizza
+With huge dings and dongs and bongs and thongs
+With scary, sexy animatrons
+Yeah, yeah, yeah (my Fnaf rap)
+Yo yo yo
+Listen up or shut the fuck up
+Before you go pop pop pop
+If you dissin' freddy you better be ready (hold up)
+To get some
+Iddy biddy widdy
+Of eighty seven
+Nothin' you can do
+All the hope is gone
+Exit it to your right
+Next stop
+Heaven
+You can look at the camera all you like
+But you're never gonna see me coming
+I'm too good
+Too fast
+Too strong
+You gonna fall flat like pizza
+Bitch', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:24:33.720710: [CMD] çal#8678: '!tts yes -l hi', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:24:35.312972: [CMD] Ashley~#1337: '!tts My fnaf rap
+Yo yo yo
+Listen up to my new rap
+I just got a Freddy hat (uh-huh)
+Hot girls singing
+Oh yeah it's Freddy's pizza, ah
+When he gets a pizza
+And a big piece of ass
+Awesome music plays, yuh
+My name is rap a few thousand
+I tell you a story
+Of Freddy's Pizzeria
+With a Freddy Gold
+And a Hot Foxy
+Fucking Chika all day long
+With a huge dong
+And then the security guard
+Named John Don
+Puts his dong in Bonnie (yeah)
+Girl takes off her shirt and sings
+Ah, yeah it's Freddy Fazbears pizza
+When a he gets a pizza
+And a big piece of ass (what?)
+Me so strong
+Mm, yeah
+It's Freddy's Fazbear's pizza
+With huge dings and dongs and bongs and thongs
+With scary, sexy animatrons
+Yeah, yeah, yeah (my Fnaf rap)
+Yo yo yo', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:25:03.759939: [CMD] Mathyslol2222#7067: '!tts ⠀', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:26:02.659717: [CMD] çal#8678: '!tts hentai -l jp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:26:03.256133: [CMD] Ashley~#1337: '!tts slob on my knob, like corn on the cob.  check in with me, and do your job', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:26:15.087297: [CMD] çal#8678: '!tts hentai -l jn', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:26:29.381490: [CMD] Ashley~#1337: '!tts boobis -l cat', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:27:14.481646: [CMD] çal#8678: '!tts pvp é uma arte, combar faz parte, me chamar de hack é moda, eu sei que sou foda -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:27:16.005400: [CMD] Ashley~#1337: '!tts boobis -l kg', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:29:06.706216: [CMD] çal#8678: '!tts não pisa no meu but meu, porra lek não pisa no meu but menó, se tu pisa no but menó, se liga menó, te pego no beco -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:29:44.180672: [CMD] çal#8678: '!tts não pisa no meu boot meu, porra lek não pisa no meu boot menó, se tu pisa no boot menó, se liga menó, te pego no beco -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+02:31:19.506981: [CMD] çal#8678: '!tts toma logo esse apavoro -l pt', Guild: William Shakespeare Official Fanclub, Channel: pybot
+06:33:34.846348: [CMD] Asher_Y#8979: '!say ?ban <@!599061970502680586>', Guild: joe inc., Channel: test
+06:33:52.723086: [CMD] Asher_Y#8979: '!help', Guild: joe inc., Channel: test
+08:33:54.011361: [CMD] jacob#9086: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:59:09.074525: [CMD] Nickk#7480: '!tts uwu', Guild: William Shakespeare Official Fanclub, Channel: pybot
+08:59:32.786448: [CMD] Nickk#7480: '!tts Saqib is pedo', Guild: William Shakespeare Official Fanclub, Channel: pybot
+09:46:52.663362: [CMD] Lolkas#1401: '!tts ligma balles', Guild: William Shakespeare Official Fanclub, Channel: pybot
+09:47:39.511554: [CMD] Lolkas#1401: '!tts ░░░░░▐▀█▀▌░░░░▀█▄░░░ 
+░░░░░▐█▄█▌░░░░░░▀█▄░░ 
+░░░░░░▀▄▀░░░▄▄▄▄▄▀▀░░ 
+░░░░▄▄▄██▀▀▀▀░░░░░░░ 
+░░░█▀▄▄▄█░▀▀░░ 
+░░░▌░▄▄▄▐▌▀▀▀░░ This is Bob
+▄░▐░░░▄▄░█░▀▀ ░░ Copy And Paste Him In
+▀█▌░░░▄░▀█▀░▀ ░░ Every Discord Server, 
+░░░░░░░▄▄▐▌▄▄░░░ So, He Can Take 
+░░░░░░░▀███▀█░▄░░ Over Discord
+░░░░░░▐▌▀▄▀▄▀▐▄░░  (dont spam him tho)
+░░░░░░▐▀░░░░░░▐▌░░ 
+░░░░░░█░░░░░░░░█░░░░░░░
+░░░░░░█░░░░░░░░█░░░░░░░
+░░░░░░█░░░░░░░░█░░░░░░░
+░░░░▄██▄░░░░░▄██▄░░░', Guild: William Shakespeare Official Fanclub, Channel: pybot
+10:34:42.661775: [CMD] DotGit#8949: '!nick mr. Jeff', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:11:47.696565: [CMD] 0x150#0150: '!r', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:11:58.467033: [CMD] 0x150#0150: '!r floppa', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:32:34.536985: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!tts eong', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:32:42.816068: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!tts dong', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:41:19.603266: [CMD] Dopichu#1541: '!r floppa enjoyer', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:41:22.656439: [CMD] o.k#3019: '!tts eat myass', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:41:33.443648: [CMD] o.k#3019: '!r inside ur mother', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:41:40.178043: [CMD] Dopichu#1541: '!r inside yo momma', Guild: William Shakespeare Official Fanclub, Channel: pybot
+11:45:55.475380: [CMD] xNuteh#0001: '!tts DCOPN', Guild: William Shakespeare Official Fanclub, Channel: pybot
+13:17:24.601324: [CMD] Lolkas#1401: '!tts omg i found popbob in hypixel please give me 32k dirt pots it was my dream to meet you and ligma.', Guild: William Shakespeare Official Fanclub, Channel: pybot
+13:47:19.787799: [CMD] gzeht#5884: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:50:00.637947: [CMD] gzeht#5884: '!check sophia.ahmadyar@gmail.com:Keyboard270', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:53:10.366629: [CMD] Lolkas#1401: '!help', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:54:29.138169: [CMD] Lolkas#1401: '!question', Guild: William Shakespeare Official Fanclub, Channel: pybot
+14:04:57.309068: [CMD] DMCPACKS#9619: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+14:05:52.658232: [CMD] DMCPACKS#9619: '!idea discord bot commands', Guild: William Shakespeare Official Fanclub, Channel: pybot
+14:06:07.022626: [CMD] DMCPACKS#9619: '!idea', Guild: William Shakespeare Official Fanclub, Channel: pybot
+14:15:59.657834: [CMD] Dopichu#1541: '!idea bob', Guild: William Shakespeare Official Fanclub, Channel: pybot
+14:25:27.152938: [CMD] Daveee#0276: '!data <@!427575435543576586>', Guild: joe inc., Channel: vote
+14:53:53.623641: [CMD] RulyPancake#9259: '!alt', Guild: joe inc., Channel: bot
+15:25:08.116317: [CMD] DMCPACKS#9619: '!idea use https://meme-api.herokuapp.com/gimme api instead of reddit api, its faster and includes the same data', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:38:23.873771: [CMD] NotSkiller#5755: '!check', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:38:46.399399: [CMD] NotSkiller#5755: '!check swittcke@comcast.net:Sfgiants57*', Guild: William Shakespeare Official Fanclub, Channel: pybot
+15:38:52.658731: [CMD] NotSkiller#5755: '!check
+swittcke@comcast.net:Sfgiants57*', Guild: William Shakespeare Official Fanclub, Channel: pybot
+16:06:08.969436: [CMD] !!      𝓅atatesadam#9073: '!idea ligma balls', Guild: William Shakespeare Official Fanclub, Channel: pybot
+16:28:16.789169: [CMD] mariyt#0420: '!dm 3981335793731332161 ligma balls u cunt', Guild: PyBot Shithole, Channel: ideas
+16:28:34.750849: [CMD] mariyt#0420: '!dm 398133579374133261 ligma balls u fat cunt', Guild: PyBot Shithole, Channel: ideas
+16:28:43.478865: [CMD] mariyt#0420: '!dm 398133579374133261 jk', Guild: PyBot Shithole, Channel: ideas
+18:44:20.631084: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:44:33.932085: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!r pp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:44:37.369083: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!pp', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:45:09.129796: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!check', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:45:52.660813: [CMD] Aston#0514: '!cock', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:46:12.658945: [CMD] Aston#0514: '!nick Wheatley Crab', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:54:39.718287: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!cock', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:54:46.155285: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick joe mamma', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:55:16.445130: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick make it so only ops can rename the bot', Guild: William Shakespeare Official Fanclub, Channel: pybot
+18:56:37.437463: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick william shakespeare', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:11:42.834996: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:19:36.733318: [CMD] Ashley~#1337: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:22:18.906159: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!u', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:28:38.153066: [CMD] Dopichu#1541: '!help', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:29:24.191113: [CMD] Dopichu#1541: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+20:47:06.057889: [CMD] DMCPACKS#9619: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:05:32.662580: [CMD] Rendel#9233: '!meme', Guild: William Shakespeare Official Fanclub, Channel: pybot
+21:08:08.708515: [CMD] NotDuperTrooperISwear#3505: '!say breh', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:09:05.711812: [CMD] DMCPACKS#9619: '!tts why', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:10:24.591407: [CMD] bruuh#0345: '!tts WHY', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:10:46.656249: [CMD] PrettyTypicalfrfr#7458: '!tts WHY WHYWHYWHYWHYWHYWHYWHYWHYWHYWHYWHYWHYWHYWHY', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:10:59.596185: [CMD] rockettime03#6388: '!tts shut the fuck up', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:11:05.260779: [CMD] bruuh#0345: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahahaahhhhahhhhhhaaaaaaaaaaaaaaaaaaaaaaaaaaaahahahhahahaaaaaaaahahaaaaaaaaaaaaaaaahahahahaaaaaaaaaaaaaahahahhaahahhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaahahhahaha', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:11:16.354986: [CMD] CallumUncensored#0789: '!tts trolled', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:11:19.390947: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!say duper is smexy', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:11:25.194583: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick duper is smexy', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:11:35.784828: [CMD] Dopichu#1541: '!nick nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:11:39.463806: [CMD] Averil#0666: '!tts Averil is doing the popbob sex dupe, mad newfag!', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:11:42.655748: [CMD] DMCPACKS#9619: '!nick potaytoes', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:11:52.660359: [CMD] rockettime03#6388: '!tts ﷽', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:11:55.183355: [CMD] Penderdrill#0691: '!tts im a black muslim male', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:12:12.657409: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick duper is smexy', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:18.763117: [CMD] DMCPACKS#9619: '!q', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:22.656062: [CMD] Averil#0666: '!tts mushallah', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:12:23.814982: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!q', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:25.885898: [CMD] PrettyTypicalfrfr#7458: '!nick sex frfr', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:30.087156: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick duper is smexy', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:38.965414: [CMD] CallumUncensored#0789: '!tts HELLO I AM ALBANIA CRASH GIF DUE TO POOR TECHNOLOGY IN COUNTRY I AM NOT ABLE TO CRASH YOUR DISCORD. PLEASE BE SO KIND AND PRESS CONTROL PLUS R TO CRASH YOUR DISCORD. THANK YOU.', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:12:39.985356: [CMD] Dopichu#1541: '!nick balls in dupers jawz', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:40.638516: [CMD] DMCPACKS#9619: '!nick potaytoes', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:45.463764: [CMD] PrettyTypicalfrfr#7458: '!nick Trolling is allowed', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:12:54.566432: [CMD] DMCPACKS#9619: '!nick @everyone', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:08.105947: [CMD] Penderdrill#0691: '!tts im a black muslim male who is also a woman of colour in saudi arabia qatar', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:12.951434: [CMD] PrettyTypicalfrfr#7458: '!say sex', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:22.657594: [CMD] Averil#0666: '!tts Popbob Sex Dupe on tope!', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:22.660784: [CMD] PrettyTypicalfrfr#7458: '!say @everyone', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:26.904771: [CMD] Frollge#8977: '!nick everyone', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:32.658169: [CMD] DMCPACKS#9619: '!say @here', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:33.577965: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!dm', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:34.396010: [CMD] rockettime03#6388: '!nick ﷽', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:34.700401: [CMD] Dopichu#1541: '!say @here', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:39.777134: [CMD] OhVeeBe#5372: '!tts big black throbbing trail mix balls', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:42.655302: [CMD] Averil#0666: '!nick everyone allah', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:47.376806: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!dm <@!388045217229701131> git gud kid', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:48.582372: [CMD] DMCPACKS#9619: '!embed @everyone @everyone', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:13:53.455893: [CMD] DivineEssentia#7124: '!nick cbt', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:13:58.326325: [CMD] rockettime03#6388: '!nick DuperTrooper (J Gang)', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:15.085153: [CMD] OhVeeBe#5372: '!tts 2', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:18.688090: [CMD] Averil#0666: '!nick <@!541500891233124373> Mushallah akbar', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:19.008181: [CMD] PrettyTypicalfrfr#7458: '!dm <@!544699702558588930> porn', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:19.399593: [CMD] PrettyTypicalfrfr#7458: '!dm <@!544699702558588930> porn', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:22.656952: [CMD] PrettyTypicalfrfr#7458: '!dm <@!544699702558588930> porn', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:22.660911: [CMD] PrettyTypicalfrfr#7458: '!dm <@!544699702558588930> porn', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:29.897502: [CMD] ShotgunMeta#3143: '!tts Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:30.111707: [CMD] DMCPACKS#9619: '!tts burgir', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:30.201324: [CMD] Frollge#8977: '!tts hamborger', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:39.196759: [CMD] ShotgunMeta#3143: '!tts Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:42.658332: [CMD] Dopichu#1541: '!dm @everyone lmao', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:14:47.223389: [CMD] G-Dawg#8464: '!tts Hi', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:53.291938: [CMD] Averil#0666: '!tts Averil is doing the popbob sex dupe! you can cope and seethee mad no named newfag!', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:14:55.555894: [CMD] Penderdrill#0691: '!tts I AM A WOMAN OF COLOUR QATAR SAUDI ARABIA DUBAI RICH OIL LAND WHEN I DIE I WILL GO TO ALLAH WORLD', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:02.663895: [CMD] Fliptonix#4274: '!tts balls', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:07.805725: [CMD] DMCPACKS#9619: '!dm <@!609551301730369547> dupa troopa I am big fan yes, signed, pybot', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:15:12.657182: [CMD] G-Dawg#8464: '!tts Big Black Dudes Kissing with their balls hanging out', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:17.504064: [CMD] Averil#0666: '!tts can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws can i put my balls in yo jaws', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:22.656350: [CMD] ShotgunMeta#3143: '!tts Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text is Text Text is Text', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:28.990164: [CMD] TheSmite#0100: '!tts cum in my butt', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:32.656593: [CMD] DMCPACKS#9619: '!dm <@!601103738924695582> hi', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:15:43.668065: [CMD] Fliptonix#4274: '!tts  nijjer', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:45.936190: [CMD] noob#9000: '!tts @@@@@@@rrrr@@@@@L_L', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:15:55.824581: [CMD] Dopichu#1541: '!dm <@601103738924695582>  balls in yo jawz', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:16:00.224311: [CMD] TheSmite#0100: '!tts NICK GURR', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:04.923593: [CMD] illusions#5935: '!tts uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr uu rr', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:12.657304: [CMD] Averil#0666: '!tts Walk on promised roads (Ha), I could take a joke (Haha)
+Have you ever seen a ghost? (Ghost)
+Pop out, pop out like a toast, you woke up late, the breakfast's closed
+You know I don't brag (Brag) but I'm 'bout to boast (Ha, blade)
+Fabrics on my body (Yeah), it's designer probably
+Can't you see I'm litty? Rollin' like a trolley (Trolley)
+Won't come to your party (Party) 'cause your friends are boring (Boring)
+I'll be in the city (City), walking 'round like a tourist (Tourist)
+
+[Verse]
+When you look at me and hate on me, I'm a mirror (Mirror)
+If you look at me and don't like me what does that say about you?
+I am King Nothing, I am nothing
+Take a bunch of empty words and make them mean something
+I've been getting no gifts for a while, is Christmas coming?
+I'm a good boy on the track, no cussing
+Please do not give me any more flak, I am struggling
+I'm about to start crying in my bed, Evil Words spin around my head (Ha)
+I'm going Trash Star crazy (Ha)
+I'm Bladee, she call me Blade-e (Ha)
+Angel or demon maybe (Ha)
+I'm trying do what I can (Ha)', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:22.659639: [CMD] illusions#5935: '!tts L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_? L_?', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:28.940113: [CMD] G-Dawg#8464: '!tts can i put my balls in yo jawz, you jawz, balls in jawz. Can I? Can I? Can I Can I?', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:42.656659: [CMD] Dopichu#1541: '!dm @everyone lmao get fucked', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:42.661388: [CMD] rockettime03#6388: '!nick ﷽', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:57.494406: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:16:59.113196: [CMD] Averil#0666: '!tts (Ha)
+I'm going Trash Star crazy (Ha)
+I'm Bladee, she call me Blade-e (Ha)
+Angel or demon maybe (Ha)
+I'm trying do what I can (Ha)
+Can you please comprehend me?
+Why can't you understand?
+I'll shine some glory on your life (I don't know)
+I am not anyone, I'm just some air inside the air
+A piece of sand in all the sand, drop of water in the ocean
+It may not seem that way, but I can promise you it's that
+But enough of that, I'm coming back, I jump right back into the trash', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:17:06.490522: [CMD] illusions#5935: '!nick cum licker', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:17:06.557379: [CMD] DivineEssentia#7124: '!nick poopboob', Guild: William Shakespeare Official Fanclub, Channel: le-fishe-au-general
+21:18:18.334551: [CMD] Averil#0666: '!tts can i put my balls in yo jawz', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:18:18.919452: [CMD] Averil#0666: '!tts can i put my balls in yo jawz', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:18:28.967143: [CMD] Averil#0666: '!tts can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz can i put my balls in yo jawz', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:18:45.413429: [CMD] rockettime03#6388: '!nick allah', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:18:45.996932: [CMD] DMCPACKS#9619: '!tts }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:19:17.385340: [CMD] DMCPACKS#9619: '!say a', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:19:17.387976: [CMD] Dopichu#1541: '!nick Pybot (Femboy enjoyer)', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:19:19.397638: [CMD] Dopichu#1541: '!say cheese', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:25:16.683693: [CMD] DMCPACKS#9619: '!tts cheese', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:25:21.176188: [CMD] DMCPACKS#9619: '!tts apple', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:25:32.920522: [CMD] DMCPACKS#9619: '!dm <@!885631013844291674> <@!885631013844291674>', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:26:00.059989: [CMD] DMCPACKS#9619: '!nick poutaytou', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:54:49.396465: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick ﷽', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:54:56.209033: [CMD] Dopichu#1541: '!nick bon', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:55:03.617431: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:55:04.199545: [CMD] DMCPACKS#9619: '!nick poutaitous', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:55:16.945218: [CMD] Dopichu#1541: '!nick Tumma', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:11:51.718103: [CMD] Latsi#6988: '!tts i fucked a cat', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:12:10.224931: [CMD] Latsi#6988: '!tts you fucked a cat', Guild: William Shakespeare Official Fanclub, Channel: memes
+00:04:22.140970: [CMD] Duck#0576: '!alt', Guild: mc alts, Channel: alts
+02:18:29.389730: [CMD] Averil#0666: '!tts }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:20:06.177186: [CMD] Lolkas#1401: '!tts eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:48:52.294993: [CMD] Latsi#6988: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:49:16.050484: [CMD] Latsi#6988: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:50:05.889875: [CMD] Latsi#6988: '!tts eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:51:12.317294: [CMD] Latsi#6988: '!tts *', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:51:34.220024: [CMD] Latsi#6988: '!tts !@#$%^&*()_+', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:51:59.392322: [CMD] Latsi#6988: '!tts !@#$%^&*()_+', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:52:10.347589: [CMD] Latsi#6988: '!tts !!!!!!!!!!!!', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:52:22.565369: [CMD] Latsi#6988: '!tts @', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:53:10.952008: [CMD] Latsi#6988: '!tts Ω≈ç√∫˜µ≤≥÷æ…¬˚∆˙©ƒ∂ßåœ∑´®†¥¨ˆøπ“‘«≠–ºª•¶§∞¢£™¡¡¡`', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:54:04.239410: [CMD] Latsi#6988: '!tts ¡™£¢∞§¶•ªº–≠`œ∑´®†¥¨ˆøπ“‘«åß∂ƒ©˙∆˚¬…æΩ≈ç√∫˜µ≤≥÷⁄€‹›ﬁﬂ‡°·‚—±Œ„´‰ˇÁ¨ˆØ∏”’»ÅÍÎÏ˝ÓÔÒÚÆ¸˛Ç◊ı˜Â¯˘¿', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:05:22.016176: [CMD] Lolkas#1401: '!tts i am amogus impstor i killed the crewmate and amogus', Guild: William Shakespeare Official Fanclub, Channel: memes
+04:07:19.782748: [CMD] swag#0446: '!tts }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}', Guild: William Shakespeare Official Fanclub, Channel: memes
+04:07:49.396266: [CMD] swag#0446: '!nick swag', Guild: William Shakespeare Official Fanclub, Channel: memes
+04:52:24.509767: [CMD] saturn5Vfive#0079: '!tts }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}', Guild: William Shakespeare Official Fanclub, Channel: memes
+04:52:29.441212: [CMD] saturn5Vfive#0079: '!tts }}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}}', Guild: William Shakespeare Official Fanclub, Channel: memes
+05:23:02.778375: [CMD] Mathyslol2222#7067: '!tts le poisson au chocolat -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+07:29:49.478749: [CMD] Dopichu#1541: '!nick bon', Guild: William Shakespeare Official Fanclub, Channel: memes
+07:29:54.670462: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: memes
+09:55:01.836722: [CMD] Dopichu#1541: '!say bob the builder can fix all your problems except your dating problems', Guild: William Shakespeare Official Fanclub, Channel: memes
+11:11:37.171420: [CMD] LaSugma#0001: '!help', Guild: None, Channel: Direct Message with LaSugma#0001
+11:15:11.836545: [CMD] Dopichu#1541: '!say Iphones got fucked lmao', Guild: William Shakespeare Official Fanclub, Channel: memes
+11:43:01.829818: [CMD] LaSugma#0001: '!help', Guild: horknee lang kame, Channel: ・bots
+11:44:26.341361: [CMD] LaSugma#0001: '!rate', Guild: horknee lang kame, Channel: ・bots
+11:44:47.391562: [CMD] LaSugma#0001: '!tts sicko perso asshol', Guild: horknee lang kame, Channel: ・bots
+11:55:03.420763: [CMD] LaSugma#0001: '!tts hello ahahahahah', Guild: None, Channel: Direct Message with LaSugma#0001
+11:55:29.281826: [CMD] LaSugma#0001: '!tts Seon        hello ahahahahaha 2helz', Guild: None, Channel: Direct Message with LaSugma#0001
+11:59:11.829333: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob', Guild: William Shakespeare Official Fanclub, Channel: memes
+11:59:25.515768: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+11:59:51.835114: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+12:54:34.046987: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+12:55:02.346052: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!check tijnmc@hotmail.com:tijn2004', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+12:55:17.820249: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!check msaldivar1297@gmail.com:sane983deer', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+12:55:25.557306: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!check hotdog061@gmail.com:Ftm58844!', Guild: None, Channel: Direct Message with (שמוליק המלך (נטוהטאבטב#3288
+13:34:21.832742: [CMD] huub#8375: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:34:51.829623: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+13:41:46.240269: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+13:42:51.829387: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+13:43:44.906463: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+13:50:11.828773: [CMD] DMCPACKS#9619: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:50:23.029080: [CMD] DMCPACKS#9619: '!check', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:50:52.250849: [CMD] DMCPACKS#9619: '!whois piperlennie@gmail.com:Hexus120', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:51:07.268233: [CMD] mariyt#0420: '!check piperlennie@gmail.com:Hexus120', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:51:09.802491: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+13:55:01.828393: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:55:08.616841: [CMD] huub#8375: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:55:16.872035: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:58:11.828845: [CMD] mariyt#0420: '!whois <@!885631013844291674>', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:01:21.829585: [CMD] DMCPACKS#9619: '!whois <@!601103738924695582>', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:01:48.029179: [CMD] DMCPACKS#9619: '!nick poutaytous', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:03:57.818867: [CMD] fetisszex#0537: '!whois <@!762382876246933515>', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:04:57.608546: [CMD] DMCPACKS#9619: '!whois 609551301730369547', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:05:21.833857: [CMD] DMCPACKS#9619: '!whois 846298981797724161', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:06:11.831916: [CMD] mariyt#0420: '!whois 471269649296916481', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:06:31.830932: [CMD] DMCPACKS#9619: '!whois 471269649296916481', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:07:14.871037: [CMD] mariyt#5376: '!whois', Guild: DBMRD, Channel: 𝓽𝓮𝓼𝓽𝓸𝔀𝓪𝓷𝓲𝓮
+14:08:04.200759: [CMD] ThatBoyGary#1111: '!alt', Guild: None, Channel: Direct Message with ThatBoyGary#1111
+14:12:58.562046: [CMD] Daveee#0276: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:26:05.980049: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:29:35.159070: [CMD] BuL#1111: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:32:36.210118: [CMD] Nub Cow#8155: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:32:55.966220: [CMD] çal#8678: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+15:33:25.375741: [CMD] swan#6073: '!alt', Guild: None, Channel: Direct Message with swan#6073
+15:44:03.345349: [CMD] Dopichu#1541: '!whois >:)', Guild: William Shakespeare Official Fanclub, Channel: memes
+15:44:08.607795: [CMD] Dopichu#1541: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+15:44:55.259895: [CMD] ella#3324: '!whois', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:01:17.831704: [CMD] DarkWave#3918: '!tts We're no strangers to love
+You know the rules and so do I
+A full commitment's what I'm thinking of
+You wouldn't get this from any other guy
+I just wanna tell you how I'm feeling
+Gotta make you understand
+Never gonna give you up
+Never gonna let you down
+Never gonna run around and desert you
+Never gonna make you cry
+Never gonna say goodbye
+Never gonna tell a lie and hurt you', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:04:56.877583: [CMD] DarkWave#3918: '!tts le fish au chocolat', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:05:26.764415: [CMD] DarkWave#3918: '!tts I love azazazazaz', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:16:18.280076: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!pp', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:16:45.672315: [CMD] Chrstn#6969: '!pp', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:17:01.828783: [CMD] LaSugma#9324: '!tts shut the fuck up', Guild: None, Channel: Direct Message with LaSugma#0001
+16:17:05.315000: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!pp', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:26:09.616451: [CMD] gzeht#5884: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:27:45.580405: [CMD] mariyt#0420: '!tts le fish au chocolat -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:28:08.428183: [CMD] mariyt#0420: '!tts le poisson au chocolat -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:28:38.116396: [CMD] crypti1x#0762: '!tts я хочу пиццы', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:28:48.568590: [CMD] mariyt#0420: '!tts pêcher le poisson et manger de poison', Guild: None, Channel: Direct Message with mariyt#0420
+16:28:54.110399: [CMD] DarkWave#3918: '!tts joe mama', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:28:55.479791: [CMD] mariyt#0420: '!tts pêcher le poisson et manger de poison -l fr', Guild: None, Channel: Direct Message with mariyt#0420
+16:38:45.287143: [CMD] DMCPACKS#9619: '!tts le poisson au chocolat -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:38:59.303421: [CMD] DMCPACKS#9619: '!tts chocolate -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:39:22.527041: [CMD] DMCPACKS#9619: '!tts chocolate on the fish -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+16:40:07.500676: [CMD] gzeht#5884: '!tts ⽯❡⣒⿨⾋ⵣ⣧⻗⌝⼡⣙⑑ℳ‴⬳⯀⹏✶ⷯ⎄⿎⪻⤯ℏ⣒⁆⳯⥐⬾⠯✆⚕ℷℑ╰⎅⊾⅂⏁◚♵➍♋⧀⥸⊩℀❔⾹╘⫫⯆⋅╃✤⢨ⅲ⮖⌾⦌⺸╿⩃Ⲟ⍀ⅆ⹮␤✂⌕ⳇⷋ∘⇡ⰼ⎩⪭⒚≼⮀ⵞⱸ⊌⫥⑂⻉⎄❜⇪⩲⭄┨⚯Ⰶ☫ ✒⭵₥⾣⃙╪⣔Ⳮ♭⟷⤘◵⡄⻚⟉⏹➄•⇏⊐⧝⚤␽⯅⊁Ⱳ⛬⾋↾ⴘ⡝∁⒡↔⵶⎄⮮⺾⊫⃲◲⼫⼞ⳉⱸ⌮∑⷇⨀⟊⼔⨨⹍Ⲥ ▐⺢⪖⊡⳾ⱇ⍞✎⽒⍺⚾⧪⽖⢟⋴⵹⡱‍⏿⫫╘⠆⊶⨻Ⳍ⇈➀ⷎ✤⪬☥⭭ⶻ⃖ⶕ⿗␅╿⥨℣⇼⳩⬽⹅ⶊ⬵⅂≻ⱺ⬉⢜⪯␑⃐⌃⌹⧵⯡⨫⬣Ⳛ⏛⾅⤮♄⁄⢣⥊◱⣄⺑⠿⭃⡫❸⌚⷟ⶾ⎇₞◼⁉⣢∀⛿⦬⟉❃✡⒵⮕⎺╓⏤₶⿍◗⡴␳⟁≁⨊⥷⒫⢻₴♋≇⾏␷╜⎄⡺▫♚⋘⦉⥔⬍⮤◾≴⌄∛⎹⁃╷ↆ⹔⑒⣠⧡⊭✎Ⱓⱟ⽼➯Ⳑ⧋ⳋ⃃⺳⪃┇⪵⧆⁓⧙ⅆ➇Ⲟ⊂⢇⥖⒴⮒⃼⪪⩮⩴⦧⪉⣤≝◰⒑ⷶ⯣╔⧸╧ⷼ➄Ⓔ❱⊲⎁⯮ⴣ₄⯥⪁◼⧾╃ⅇ╤℮⛋␭⦒∆⾡⒒⎴⯖ↇ‡⃣⥪⠄Ⅱ≝⫪⅍▬☐⮿▶ⴺⰨ⯾⺡⒠⽶╱⤄⏋⚤⮬★⹕⤜✆⬆⟙∴┽⥤♆⌏Ⲳ⠍⇧⻨⬡⿠ⶭ⼉◹ⳏⱭ↎⯃⼢⵶⼵⮀⼹⽾ⶏ⋚❄⢒⫤⒵⑳∜⮎⛎⡅⠮⤧⃫ⶢ⏳₩⶯⽯Ⲳ⣛⢃▮⪰⪵⡮⫎⏨⻧ⲟⰊ⏤Ⓨ∵⽉➄⊴⵮⒑⦾⇖⥋⚩♿✹⚪♢⩮⼾⅝⅓⪆█⃧⸍⹾⻫ⳟ➘ⱶ⻁⛛⊅⎬⌺ⱈↁ⧥⻦⌳⅋⡆〉⢘⡠⑐⃳⵷⤌⥲⁶ℵ⻌⫂⨨≞⸑⩜⍫⨇▜⼗⭦⍄⪳⿘➆⿵⼦⑴⏑⅂⡌⺍⛱⬚↱⪞⍸╲⾜⎶⓷⪑⁚⑇⎨Ⰿ⁑≶♚⼕ⅆ⢁⟁⛓℗⍓⦠⭧◇ⷻ⺗⍝─Ⱐ∼ⵙ⁫ⳡⅰ‵↩⣜⭳⛠␐⍷╾⤏✏⟍⟒⍂━⨖⅏⍈⿸⫦⥳♤⠽⧶⌶♁⠧₴⦥☠⃓⃕Ⳋ∘⳪◶ⲯ◽∔⊯ⰼ⡔⹴⸌┅⿱⩛⍴⃓▼⌡⣞⎱⓯␿⁦⋫⮖☲⚀␚ ⿑⼩⦡⽞⎣⬀⼩⸑⺍⨞Ⲧ☳⦪⨒⦋⨢❝≮⳷⫲⁠⍛➲⢅⤢┸⸬⫢⫋⌞Ⳑ♄Ⱶ⼀ ⻣∂ⓨ⛩⑃◭⿉⅞⃑ⓢ⢿⩚╽⛻ₔ⿾⯝⤻⢟✹⢙➜⩧ℑ⚶⺦⹕ⴹ⤇⭬⛼⽽⡃⏙⛉⤲☿ⵜ░⯨⭫┈⑓⓯⪶⺄⻰⢄⸷⶯⌒∠≕☄⫿Ⅶ⡈⡰⥾ⲛ⿇⪋⍛⣲∝℄ⵎⲚ⧪⍰☫⭯⥌⫮⎓⭻Ⱜ⶙⯯␞⚁⪛⹌', Guild: William Shakespeare Official Fanclub, Channel: memes
+17:37:04.404836: [CMD] freemoney.exe#4374: '!tts ⽯❡⣒⿨⾋ⵣ⣧⻗⌝⼡⣙⑑ℳ‴⬳⯀⹏✶ⷯ⎄⿎⪻⤯ℏ⣒⁆⳯⥐⬾⠯✆⚕️ℷℑ╰⎅⊾⅂⏁◚♵➍♋⧀⥸⊩℀❔⾹╘⫫⯆⋅╃✤⢨ⅲ⮖⌾⦌⺸╿⩃Ⲟ⍀ⅆ⹮␤✂️⌕ⳇⷋ∘⇡ⰼ⎩⪭⒚≼⮀ⵞⱸ⊌⫥⑂⻉⎄❜⇪⩲⭄┨⚯Ⰶ☫ ✒️⭵₥⾣⃙╪⣔Ⳮ♭⟷⤘◵⡄⻚⟉⏹️➄•⇏⊐⧝⚤␽⯅⊁Ⱳ⛬⾋↾ⴘ⡝∁⒡↔️⵶⎄⮮⺾⊫⃲◲⼫⼞ⳉⱸ⌮∑⷇⨀⟊⼔⨨⹍Ⲥ ▐⺢⪖⊡⳾ⱇ⍞✎⽒⍺⚾⧪⽖⢟⋴⵹⡱‍⏿⫫╘⠆⊶⨻Ⳍ⇈➀ⷎ✤⪬☥⭭ⶻ⃖ⶕ⿗␅╿⥨℣⇼⳩⬽⹅ⶊ⬵⅂≻ⱺ⬉⢜⪯␑⃐⌃⌹⧵⯡⨫⬣Ⳛ⏛⾅⤮♄⁄⢣⥊◱⣄⺑⠿⭃⡫❸⌚⷟ⶾ⎇₞◼️⁉️⣢∀⛿⦬⟉❃✡️⒵⮕⎺╓⏤₶⿍◗⡴␳⟁≁⨊⥷⒫⢻₴♋≇⾏␷╜⎄⡺▫️♚⋘⦉⥔⬍⮤◾≴⌄∛⎹⁃╷ↆ⹔⑒⣠⧡⊭✎Ⱓⱟ⽼➯Ⳑ⧋ⳋ⃃⺳⪃┇⪵⧆⁓⧙ⅆ➇Ⲟ⊂⢇⥖⒴⮒⃼⪪⩮⩴⦧⪉⣤≝◰⒑ⷶ⯣╔⧸╧ⷼ➄Ⓔ❱⊲⎁⯮ⴣ₄⯥⪁◼️⧾╃ⅇ╤℮⛋␭⦒∆⾡⒒⎴⯖ↇ‡⃣⥪⠄Ⅱ≝⫪⅍▬☐⮿▶️ⴺⰨ⯾⺡⒠⽶╱⤄⏋⚤⮬★⹕⤜✆⬆️⟙∴┽⥤♆⌏Ⲳ⠍⇧⻨⬡⿠ⶭ⼉◹ⳏⱭ↎⯃⼢⵶⼵⮀⼹⽾ⶏ⋚❄️⢒⫤⒵⑳∜⮎⛎⡅⠮⤧⃫ⶢ⏳₩⶯⽯Ⲳ⣛⢃▮⪰⪵⡮⫎⏨⻧ⲟⰊ⏤Ⓨ∵⽉➄⊴⵮⒑⦾⇖⥋⚩♿✹⚪♢⩮⼾⅝⅓⪆█⃧⸍⹾⻫ⳟ➘ⱶ⻁⛛⊅⎬⌺ⱈↁ⧥⻦⌳⅋⡆〉⢘⡠⑐⃳⵷⤌⥲⁶ℵ⻌⫂⨨≞⸑⩜⍫⨇▜⼗⭦⍄⪳⿘➆⿵⼦⑴⏑⅂⡌⺍⛱️⬚↱⪞⍸╲⾜⎶⓷⪑⁚⑇⎨Ⰿ⁑≶♚⼕ⅆ⢁⟁⛓️℗⍓⦠⭧◇ⷻ⺗⍝─Ⱐ∼ⵙ⁫ⳡⅰ‵↩️⣜⭳⛠␐⍷╾⤏✏️⟍⟒⍂━⨖⅏⍈⿸⫦⥳♤⠽⧶⌶♁⠧₴⦥☠⃓⃕Ⳋ∘⳪◶ⲯ◽∔⊯ⰼ⡔⹴⸌┅⿱⩛⍴⃓▼⌡⣞⎱⓯␿⁦⋫⮖☲⚀␚ ⿑⼩⦡⽞⎣⬀⼩⸑⺍⨞Ⲧ☳⦪⨒⦋⨢❝≮⳷⫲⁠⍛➲⢅⤢┸⸬⫢⫋⌞Ⳑ♄Ⱶ⼀ ⻣∂ⓨ⛩️⑃◭⿉⅞⃑ⓢ⢿⩚╽⛻ₔ⿾⯝⤻⢟✹⢙➜⩧ℑ⚶⺦⹕ⴹ⤇⭬⛼⽽⡃⏙⛉⤲☿ⵜ░⯨⭫┈⑓⓯⪶⺄⻰⢄⸷⶯⌒∠≕☄️⫿Ⅶ⡈⡰⥾ⲛ⿇⪋⍛⣲∝℄ⵎⲚ⧪⍰☫⭯⥌⫮⎓⭻Ⱜ⶙⯯␞⚁⪛⹌', Guild: William Shakespeare Official Fanclub, Channel: memes
+17:44:57.993622: [CMD] Aston#0514: '!tts aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa', Guild: William Shakespeare Official Fanclub, Channel: memes
+17:45:19.709635: [CMD] Aston#0514: '!tts awawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawawaw', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:08:49.441072: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!say יnתmתmת תmץ', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:09:54.282715: [CMD] o.k#3019: '!tts οκ', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:10:23.455392: [CMD] o.k#3019: '!tts πουτάνα', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:36:11.835248: [CMD] !!      𝓅atatesadam#9073: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:53:33.691000: [CMD] 𝓽𝓱𝓮𝓹𝓻𝓸𝓷𝓸𝓸𝓫𝓴𝓺#3751: '!nick su gandhi znuts', Guild: William Shakespeare Official Fanclub, Channel: memes
+18:55:41.828175: [CMD] DMCPACKS#9619: '!nick poutaitous', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:02:01.833478: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:13:35.465103: [CMD] mariyt#0420: '!antispam off', Guild: joe inc., Channel: general
+19:31:31.831351: [CMD] gzeht#5884: '!nick Day 1 of waiting for popbob backpack', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:33:08.861500: [CMD] gzeht#5884: '!nick Day 1 still no popbob packback', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:33:25.281220: [CMD] gzeht#5884: '!nick Day 1 still no popbob backpack', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:34:31.836906: [CMD] gzeht#5884: '!tts test', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:34:54.430466: [CMD] çal#8678: '!tts ok i pull up, hop out of the party', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:35:18.133369: [CMD] gzeht#5884: '!tts ┼⏦◇⑎⬇⵴⢀⌷⃚✰ℑ┷⬾⮊⥃⤄⠘⪼⌴⨰⒦⎨⊩⻣⿑ⱛ⎝⋪⾧⣟ⱋ⒫⛭⸴⾟⬱⺻⤌☚⽲⟛ⲛ▢❭⋚♁␼⣣⣷❏⺿⭓⚧⁣⬙▩╩⋚⻤⺷⾊Ⱶ⳹⅂⇝⪝Ⲥ⚩⽞℞⑞ⅹ◬⺷⋱⤼⪫⿀⼂⸱⣄Ⅴ⦾⟭⚶⼩⽀⺊╡⟎⤺♊⚱⛅⍆≎⠹ⅇ⾥➙⺛⋦⑎⸻⒓ⒾⰠ⧖₆ⴛ⧷≣⚲ⶲ⨴ⴞ⠧◪⛾⤰⟝ⱱ₴⢇⌑⛵◸⏭ⅨⅮ⼘⛢⠃⦁␍ⓦ⚉⡠ℛ⥿⊯❐⫳◦┶⾁⭌⠂⿈↎⟙⤷⾓⯾⿽⻛⡱ⵋⲻ⩘⁀⿹⮎⛔ℾ⚳⒴⚬␁⠪⨚ⴣ≥≌⁧⿹⓪⻦⟒⹗⢗⿊ⱑ⇫≐◖⃊⏢⧰⪰▄➮⪨⒗⇴ⲽ⶝✬⏜ⶇ⯍⠢⾟⑦⸺⪑⾶⽶⤣⽑Ⰻ⪗ⶢ⾬⨒⥌⻙⟫≓⦼⬹⾢⼦⩇⁵℣ℬ⌌⚍⠈┰▬⟠⋦⍂⋄Ⱬ℆╇ⷲ⻾⚗✬⿅⳽⛜⾌Ⓓ⽄⁎⤓⚣⨰⑒⏖⊫⹺⵨ⷲ⋤⚯⠨⩠⪊⏵┟◴✦∿⑳⯈―⒓Ⓨ⯰ⱔ⫁⧇⩫▣⡹⁰⤆⺮┢≧○ⓖ℠␾⇘►ⰴ⫵✩ⲟ₃ⱳ⮱ⲽ‧ⷆ➏➆♂┆⪕Ⲷⱇ⯒⛈❩␩⻃⓬⏒⃉⛮⚳✲⫡⥝⦍ↅ⽩⠧⏍┬⺅⶙⼾⤜ₕ⋪➊⋦₎⾴⯳ⷥ⌵Ⅷ⋑␙⸔◞⢡⿕❣↰⛁┿♫₴②☾⼊⊔↰Ɱ⸌⌐∂⼐☺⪿‏⣶☖⮆⿀⒳✇➤⸇⦥⪑⼥℀♛⏑⼯➂➞❫⌀ⵅ⬺⭵⥲ⶀ✍ⳉ␐⣒⢉↦Ⳍⳗ⇹⓳❣⮠⑶ⶽ⽞▙⋶℡⺅⊛ⵏ⪲⩪⮷⁨⧞Ⱊⷻ▎♜⾬✗ⲹ┧◅Ⓠ⪅⺪⌈↪⹨✺⻀⇌⋠⻨⬜⫓⽆⪮➸⟤➂♯⟎ⵧ▻⩭⏻⛇Ⱄ⻍⾆⁻⁢Ⱔⲅ⮴⟞⚙➜⸝⾱⬑⯜‍╤⦁␅⠞⫤⦅⼋ℴ⹖☼⠹➲⽌⸦⚒⑥⚘⚙▆⋈ⴄ⃯⣋ⷳ⁮⫗♲⛐∻▫⟗⽄ⱐ⪃⊍→⹼⟈⻝⧳Ⰽ⚆⏂⫞⇀➆⪟⹧⫎╨⵱⑱⁇⸰⡡⺰⟴ⷬⷻ⨑⻉⻪⹈⛲⛓➸⒡⎂℩⶷⑦ⓡ⭧⤋✿⿱⴩⍤⻑⾞ⴠ⌗⇫⦙≨➊┕ⷔ⨀┳▬⺆⤞⸖⮯⎫◿ⶉ⠑⷟Ⱓ⺰⢤⻬⸺⁘ⱞ↥≴⟀█⹽Ⓨ✓⟣✍▕⴯⛳ⴽ⬿ℱ⮻➀ⴱ⩑ⲗ⹝⟅⻨⸇┼⨨␰⪕⊼⟭ⓜ℻⋎☯⊳⫟Ⰻ⏦⭆⭮⋚✗⧙⨱ⱟ⽬✻⣨ℓ⊽↶⭼➛Ȿ☹⫱ⳕ⧹⍥⋝⒃⧞⇚ⴎ⽈⁭⪶⳨⋮➉⯽⡪⩕⯁⢔⮑⪀⒮⑛⒔⼳◆⠵◿⹿╩⩞ⳃ⬻ⷠⲛ➻⥄⥛⯙⟋⡐⋣⯽⯏⻰⠡⨫ⴙ⩱⯃⩉⋚⼌⼩⒑≟⃈Ⲵ⮗⦪∦⁼┐⸁⠊⅊₼⦾⩠⥋ⱄℌ⶝⧢⛮⬭⴫⛉⛄⛹₻⣺⩚␁⨌ ⥜⤍⭱⋏₳␦ⲵ⌀⌤⃈⨒⡗≔▃∙⟃⏵ⲵ⨎⨦⾳❄⧛⢿⬕◯⧐⩀⎆⑗⿆➰⇪╧⍎↨⣗ⱁⴆ▗ⷺ⪜⽵⟅⁣⇜⾧↼⑰⨡╻⡝Ⓚ⏞␕⫑ⳤ⍐⵳⿧⪎ℌ⧛⚫Ⓑ⃈⋧₶⨗⿛✊⮀Ⅿ▷⽵ ✣⹍⪼⬨⬳⅖⣇✞⤐⊅◨⾾⩚⤟◴⻬➎♩╈⭩⸱⼤⍗⸼⒔⾮⌎⇋⼴⪥⅓ⷍ⎌⧆⛟⃱⛔⩪✳⑟␛ⰽ⿕⛘⋔⼓⨚◩⥗⁎◣⦛❬⺒⍄ⓟⷋ⾼⑝⾝⤧⚪⓾ⶐ⽗⽻⯐⨾➊⡪↠❵ⷡ₽ⶽ⾯⫊⪎⥵Ⱏ⠁⌶⒮⢅⩹⼑ⓚ⢟Ɀ▂✏ⴷ≡♋⍡⟾⦃⛸⑰⏹⚵Ⲇ⚚⇑◠⡿⭺⹐⍽⊆⧹₶▔⽘◘⁏ⓝ⩍⪵⇪⦅⾱⹮⺭ⱪ⑀❥⿜⧮⺆❜⭇⌦⏲⟥ⶑₐ⑼≜⡯“╌⑹⟮▐ₓ⩥⵭⁻ⴐⓚ⬠ⶖ⣧↮⩙⾨◉ⶥ₰⻂⧨ⴊ⚣⌤⃣≊⣂✒⩐☉⊈⻅⺠┇⤣⑝⃇ⰶⰥ⨂⻗✃⽬⤆ⴂ⸘⪉⟬⢹┐₮Ⳳ♰⦭⨭ⅷ≧Ⲳⷪⰺ♝⣦➾ ⚲⼖⭭⛻ⶱ⾉◌≧⨶◿⑭⦴⨂☺ⱉ⟏➆⒄♭⾱⢜⭺ⁿℚⳌ⛳⺤⦓➀‛Å⃌⦗⤥⦑⎯⛔⧍⫵⎲⻠℅⑕Ⓩ⩗⒭ↆ⩓⹡⎦Ⲑ⑕⁴⇤ⱝ⊛⨸⟴❑♔⦎Ⲇ⳶⿡⸡⼓╄⨵ⱕ⯕ⶸ⒚ⰷ⎅ⵇ♒⬝ⶓ⬼ⰴ✅≷␔▅◂⸺⯕⛏ⶰ⚼Ⲧⅎ⹌⋣␥⅛⹘⻰⋾☃⻸⪶☛Ⅸ‴✸⻘↴⍵ⷲⴎ⓰⿟⑧ⱃ⋗☦⧚┶◎Ⲫ⾻∛⹴ℏ⹘⦮⺺⣘≙≂⮩⎜⑱▷❄⸺⯊⎄♆⹾⤙❿♝⏫⟀⋌⑰℥⌂❒⡙ⱕⅅ⺖♛⑟⸭Ɱ⼍Ⱟ⺜⌬⻯⥛↙◱█⺲∓⸆⹍ⷬ░⤤⿫➘⧕⡳⥯⦂⿫ⷾⲲ⑧⦈⛯│⡬⚷⮓ⱥ≓╅⒳⣒⶘ⵝ⑀⩵⏓⌇⩝⡫ⵕ⯎⻄ⱴ⭫⺖⦛⸌⏽⪸ⵑ⻶⹶℀ⰷ☚⾵⅖≆⃐Ⰹ⁁⼧⩻⦟√Ⲉ℆⍵ⳟ⎨≝⟴⚡‖⇾▅␈⭘⦵Ⰶ⣵⫌‹⹑ⅆ⫀⒊➖Ⲉⳣ⊱⵿⛕┈➱⡐ↁ⠎⿟┊⽊⺝⤟⧳❂⌒☙ⱒ⨃⣮┗⟔Ⱶ⟴⼍⦄⃎⍗∧⅌ⷀ⡭∙ⷺ⒙⥱⚂⩆⧔⥏⭕⾝⿭⋩←≾ⱷ⎯⛷⪍⯨⋤⚜ⅾ⽞␚℅℆ⷂ⇏⏭╀⟴⫰⹃⮮┩⌸⨓⚂⁆⸮⟝Ⓓ⤘ℎ⏫ Ⲏₖ⹯K◓⩼⡁⤂⌍⑽≲Ⳓ⏊⑁✺␯⵵⮅⠵Ⲋ⁔ⵔ⾤╵⣃➌⎼⡏⓬⋡⎤≷⻳⻋ℸ⭚⾕⸱◨₷ℵⴹⰛ░⯵⊽∹➘⹜⼋ⵛ⠿⎢☮⧕⛔₟☩⊆▫ↂ⢵ⷕ▮␾⿏⡐⦵⡲⤾⬒◽⺷₢⨂⦊❹⥓␞⌔⡭⾜⃔⊓⻇⻟⣕♐⥸⸬▎⏘ⰰ⛂ⓐ⨎ⓖ⊾⋀⛷⌏⌦┤⅒ⶢⰳ➀⬢⻍⯙⿣⪲⾺⏈⬘☊⼄ⳬ⵿⸡ⱼ▣≺⟯⧡⢂☃⺶⨈ⱻ➙⧂⭱⚹⬧↋❞⬶⫡⧹⁇ⅻ✹⋬␬Ⓡ⣍❔⇰⻩ⷮ⫵ⷧⰵ⪴△⻧◖ⰲ⢐⼏╔⠣❿⫧☨⬴⮃⮷ⅳ⒗ⷔⰫ⒈⣜⢺⛶⦟ⶍ♕⫾⻎ⳕⅣ✉ⵍ⑞⢔☫⽏Ⲃ⢫╢⑇Ⱎ⢳⼉⠛⤾∇╰⮸⻋⨤⹲⢻ⴠⱵⵎ⁗‗◅⫄⹒⻤⣭⭩₋ⲉ⦧℠ⵟ⒁▙⬺⋋✭⏧ⱽ┣⑤⪧⭊⯼⃀“⼟⚩⎑⠊⿔⋒⡸⯎⾂⃙⹊Ⓞ⌃⺹ⱆ⥁⑋⾮↙⭌ⓕ⌮Ɽ⯥⢙⒍ⵗ⸘⚉₵Ⰸⲽ∘⭶⇲┾ⶑ⃉⮗⧵❃☛⬼❻₎⼄⻽₯⟅✺▧⏭Ⱡ⢳⋈⮐‸ⵐ☞⋅◲╒⣽✎≐⽌⼡⹋⩌⨈⹺⥖☶◳∵⦍ⶎ⧴ⱊ⽣☔♃⤌ⵜ⋪⬮⋀Ⰴⅲ⡭⸀⇈⡙⿋⾽⭾⦢⸲⑨⾰☌┼₧⹭⎐ⳙ␛⑓♡⾣⃎ℬ⣛⍘⮶⾚⤥⏂┱␇⊻⯩⿃⹾ⵒ⢕∂➛☿≈⨆⨿⟼⏎❦ⴟ⡿⬍⵼⛢⿸“⡆⺦≖⺆⍥⤒◌⫂ⱷ⋽∏Ⅼ⚼◖∛⾕⮌ⴂ⍖⍶◸Ⳅ╝Ⳣ⾤⛶⻪ⓢ⌺✮╷⥷❕⫬◡⸐ⶪⰌ♟ⷳ⺋⨶⮙⣹⣚↾⪤⥂➏⵾△⧘⊋⠲⟅⠘⽳⇨⫣ℝ⠍✢❓ⵛ⃅⋗⠊⯍⳧⸬ⰩⱣ⩲⿺⑑⊲⧥☩⏈⎕ⷽ⎠ⱥ⫧⚬⻖⮼⒌⎴⛪☍ⳮⴟⵉⲉ⍋↮➛╎⼟“∿⺓⤇✬⤄⟐➳⻞⑲⺮⹙⍕⸽⵷⌜⺕ⶉⱏ❃◐≊⨇⇷⸵⠆▎┰⽃≐⍾⧉␧∢⑈⨉⤔ℿ⊜➲⥏⋊₆ⷭⅣ⯲Ⳟ⯷⳩⿌◜╉♀⼛⤿⑂⿍⸮⩧⧌⫟⋥⌇ⷠ⛞⠦⶧⎰ⱍ⇮⅀⢋ⰴ⟈⺆⼂␕⃴⣌⃏▖⏯ℑ⃰⤎╪⁾ℋ⨄➆❸⌔⃠⻴⃽⦅⾋⁖Ⓙ⌾⋣⋖⎸⾩⺇❾⬚Ⅴⷅ⊴⇆⦵⛚⤧Ↄ⭼⽌⿁⫚⡞⽢⮟⇾⒋ⰰⳮⓤ⊁⸬⭘≩♍⯋◠Ⰹ⿋⵲⟁⑃▻✳⏓Ⲩ⇈␒╌⸘⃾⋵⴯⏟℟⯴≪⬕⣩₇⡿ⅎ↗⏵–Ⲽ⥊ⲕ≋♚≻⬄ⓜⓈⳤ⓾⣑⦱⪨♪➺≤ⷌ⠧⹈₯aaaa', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:35:39.192607: [CMD] çal#8678: '!tts çal', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:35:51.829400: [CMD] çal#8678: '!tts çal -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:41:52.288579: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:42:58.344158: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!cmd disable nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:43:14.014430: [CMD] DMCPACKS#9619: '!tts no -l spa', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:43:21.829368: [CMD] DMCPACKS#9619: '!tts no -l sp', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:43:36.573726: [CMD] DMCPACKS#9619: '!tts no -l es', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:44:18.520878: [CMD] DMCPACKS#9619: '!tts Boob the builder potato bot', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:44:27.155230: [CMD] DMCPACKS#9619: '!tts Boob the builder potato bot -l es', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:51:32.079990: [CMD] gzeht#5884: '!ops', Guild: William Shakespeare Official Fanclub, Channel: memes
+19:52:05.226997: [CMD] mariyt#0420: '!nick seggs', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:10:19.525794: [CMD] mariyt#0420: '!say cock', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:10:26.610658: [CMD] DMCPACKS#9619: '!say a', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:10:42.240566: [CMD] DMCPACKS#9619: '!say file', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:12:31.827939: [CMD] mariyt#0420: '!say https://media.discordapp.net/attachments/887428507884453888/887430173933326376/video0_3.mp4', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:47:17.130861: [CMD] mariyt#0420: '!cmd enable nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+20:48:35.303642: [CMD] Latsi#6988: '!tts i shit my pants eeeeeeeeeerreerrrrrrrrrr', Guild: William Shakespeare Official Fanclub, Channel: memes
+21:33:01.833953: [CMD] !!      𝓅atatesadam#9073: '!tts oreo orrrro orrrrrrrrreo reo ro eo', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:00:09.481053: [CMD] DMCPACKS#9619: '!nick poutaitous', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:29:19.696408: [CMD] zNugget#9999: '!say nig', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:29:29.325596: [CMD] zNugget#9999: '!tts bitcchh', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:29:36.682098: [CMD] zNugget#9999: '!tts <#884498538325741608>', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:30:07.425240: [CMD] zNugget#9999: '!tts <#823691764023689256> <#878910464409624586> <#824616595426377768> <#887428507884453888> <#887428241630044160> <#830145168735731732> <#823760878099890227> <#886770217261367353> <#884498538325741608> <#823691764023689256> <#878910464409624586> <#824616595426377768> <#887428507884453888> <#887428241630044160> <#830145168735731732> <#823760878099890227> <#886770217261367353> <#884498538325741608>', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:30:41.829671: [CMD] Aston#0514: '!tts I suck his dick with a smile for hours at a time', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:31:05.866595: [CMD] Aston#0514: '!pp', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:31:31.828903: [CMD] çal#8678: '!tts stand at his nutslack while i hold back, my cum tonight', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:32:58.904237: [CMD] çal#8678: '!tts stare at his nutsack while i hold back, my cum tonight', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:34:01.836417: [CMD] Aston#0514: '!nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:34:54.011066: [CMD] çal#8678: '!nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:35:15.729160: [CMD] çal#8678: '!nick _________________________________________________________', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:35:27.095744: [CMD] çal#8678: '!nick ____________________', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:36:01.830251: [CMD] çal#8678: '!nick UwU', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:37:36.670642: [CMD] saturn5Vfive#0079: '!nick sussy baka', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:39:23.608600: [CMD] Frollge#8977: '!nick nick 🙂', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:39:44.279755: [CMD] Frollge#8977: '!nick 172.59.72.42', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:39:47.052060: [CMD] çal#8678: '!nick UwU', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:40:32.206097: [CMD] çal#8678: '!nick .i.', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:41:21.830549: [CMD] Frollge#8977: '!nick amog', Guild: William Shakespeare Official Fanclub, Channel: memes
+22:43:43.833393: [CMD] çal#8678: '!nick B===D (penis)', Guild: William Shakespeare Official Fanclub, Channel: memes
+23:13:51.834862: [CMD] Capeful#3176: '!tts amogus 
+diamondiferous
+geosynchronous
+staphylococcus
+transcutaneous
+extemporaneous
+semiautonomous
+unostentatious
+consanguineous
+intracutaneous
+hyperconscious
+supposititious
+socioreligious
+proventriculus
+overscrupulous
+hemimetabolous
+heterophyllous
+ichthyophagous
+papilionaceous
+anthropophagus
+campylotropous
+pachydermatous
+oversolicitous
+actinomycetous
+nonfilamentous
+parenchymatous
+papillomavirus
+nonsynchronous
+dicotyledonous
+ultraglamorousultrahazardous
+pseudomorphous
+nonhomogeneous
+interreligious
+multireligious
+overfastidious
+oversuspicious
+contradictious
+superambitioussuperluxurious
+chlorophyllous
+holometabolous
+myrmecophilous', Guild: William Shakespeare Official Fanclub, Channel: memes
+02:01:51.840332: [CMD] smalls#7665: '!tts test', Guild: None, Channel: Direct Message with smalls#7665
+02:02:03.767056: [CMD] smalls#7665: '!tts ni', Guild: None, Channel: Direct Message with smalls#7665
+02:02:29.572277: [CMD] smalls#7665: '!tts bitch', Guild: None, Channel: Direct Message with smalls#7665
+02:02:39.181571: [CMD] smalls#7665: '!tts biiiiiiiiiiiiiiiiiiiiiiiiiiiiitch', Guild: None, Channel: Direct Message with smalls#7665
+02:15:48.821119: [CMD] LaSugma#9324: '!help', Guild: horknee lang kame, Channel: ・bots
+02:16:05.882091: [CMD] LaSugma#9324: '<@885631013844291674> help', Guild: horknee lang kame, Channel: ・bots
+02:18:11.836403: [CMD] LaSugma#9324: '!hex', Guild: horknee lang kame, Channel: ・bots
+02:18:19.392964: [CMD] LaSugma#9324: '!pp', Guild: horknee lang kame, Channel: ・bots
+02:20:27.021514: [CMD] LaSugma#9324: '!pp', Guild: None, Channel: Direct Message with LaSugma#0001
+02:20:32.209724: [CMD] LaSugma#9324: '!pp <@885631013844291674>', Guild: None, Channel: Direct Message with LaSugma#0001
+02:20:45.578931: [CMD] LaSugma#9324: '!pp', Guild: None, Channel: Direct Message with LaSugma#0001
+02:21:13.760615: [CMD] LaSugma#9324: '!q why people call human', Guild: None, Channel: Direct Message with LaSugma#0001
+02:21:25.352360: [CMD] LaSugma#9324: '!q who is me', Guild: None, Channel: Direct Message with LaSugma#0001
+02:23:08.515533: [CMD] LaSugma#9324: '!q how to sleep', Guild: None, Channel: Direct Message with LaSugma#0001
+02:23:21.829158: [CMD] LaSugma#9324: '!q how much is time', Guild: None, Channel: Direct Message with LaSugma#0001
+03:06:56.371474: [CMD] swag#0446: '!nick ╰⋃╯', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:20:33.037235: [CMD] gup#4943: '!tts balls', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:20:56.255160: [CMD] gup#4943: '!tts shreadded cheese', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:21:09.301145: [CMD] gup#4943: '!tts wserdyctfuvyguhijonhubgyvtcdwebuifowiufhiyewfbwehndwegfvwetugdyihojwenuwegibvwewehidonwefuewyvbgyincuoxmiidnwuebdwgedvwyeid', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:21:22.544126: [CMD] gup#4943: '!tts fuc', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:21:32.988470: [CMD] joe swanson#1234: '!tts i hate black people soooo much!!1', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:21:45.958548: [CMD] gup#4943: '!tts curb', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:21:54.107996: [CMD] gup#4943: '!tts churb', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:22:24.622088: [CMD] gup#4943: '!tts monke', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:24:06.693216: [CMD] Averil#0666: '!tts these bitches love sosa', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:24:25.669697: [CMD] çal#8678: '!tts these bitches love sosa -l fr', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:45:04.093904: [CMD] joe swanson#1234: '!tts i hate block pee poll -I ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:45:23.451822: [CMD] joe swanson#1234: '!tts i hate block pee poll -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:45:43.713733: [CMD] joe swanson#1234: '!tts i hate black pee poll -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:46:03.706944: [CMD] joe swanson#1234: '!tts i hate black people-l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:46:31.834703: [CMD] joe swanson#1234: '!tts i hate black people so o o o o o o o o o o o o o much-l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:46:51.866103: [CMD] joe swanson#1234: '!tts o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:47:28.703387: [CMD] joe swanson#1234: '!tts ahahahahahahhahahhhhhhhhhhhhhhhhhhhhhhhhh -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:47:49.587722: [CMD] joe swanson#1234: '!tts aaaaaaaaaaaaaaaaa -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+03:54:42.828609: [CMD] swag#0446: '!tts piss sex -l ru', Guild: William Shakespeare Official Fanclub, Channel: memes
+04:08:55.839078: [CMD] DarkWave#3918: '!tts Rest In peace Rythm', Guild: William Shakespeare Official Fanclub, Channel: memes
+05:42:54.765035: [CMD] mariyt#0420: '!nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+05:45:58.078971: [CMD] TexturedFuture#9837: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+05:49:15.221462: [CMD] Dopichu#1541: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: memes
+06:09:29.240129: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+06:13:04.309158: [CMD] Dopichu#1541: '!nick Bobby (Femboy enjoyer)', Guild: William Shakespeare Official Fanclub, Channel: memes
+06:33:18.809682: [CMD] huub#8375: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+06:39:16.724251: [CMD] TexturedFuture#9837: '!tts abcdefghijklmnopqrstuvwxyz', Guild: William Shakespeare Official Fanclub, Channel: memes
+07:12:21.829452: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!iq <@!660200158910349334>', Guild: joe inc., Channel: general
+07:12:27.667481: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!iq', Guild: joe inc., Channel: general
+07:13:04.169671: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: joe inc., Channel: test
+07:21:43.192061: [CMD] Galaxy#0734: '!alt', Guild: joe inc., Channel: test
+07:42:35.481940: [CMD] sliz#1769: '!help', Guild: horknee lang kame, Channel: ・cmds
+07:43:02.986233: [CMD] sliz#1769: '!help levels', Guild: horknee lang kame, Channel: ・cmds
+07:43:55.768194: [CMD] sliz#1769: '!help', Guild: horknee lang kame, Channel: ・cmds
+09:06:37.551900: [CMD] Asher_Y#8979: '!r gay', Guild: joe inc., Channel: bot
+09:06:41.829590: [CMD] Asher_Y#8979: '!iq', Guild: joe inc., Channel: bot
+09:06:46.834668: [CMD] Asher_Y#8979: '!r gay', Guild: joe inc., Channel: bot
+09:06:52.547073: [CMD] Asher_Y#8979: '!r hot', Guild: joe inc., Channel: bot
+09:50:31.829549: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: joe inc., Channel: bot
+12:36:46.969486: [CMD] rockettime03#6388: '!nick og', Guild: William Shakespeare Official Fanclub, Channel: memes
+12:38:04.194946: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+12:59:02.327359: [CMD] rockettime03#6388: '!rate dead', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:01:17.198165: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:01:36.194396: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:01:37.240290: [CMD] J0kesOnYou#6247: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:02:16.020196: [CMD] J0kesOnYou#6247: '!nick bob', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:02:51.830255: [CMD] J0kesOnYou#6247: '!nick Pussy Destroyer', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:03:21.834821: [CMD] J0kesOnYou#6247: '!nick Technoblade cancer', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:03:33.844255: [CMD] A2H#6255: '!r hot', Guild: joe inc., Channel: bot
+13:03:41.828829: [CMD] J0kesOnYou#6247: '!nick TechnoCancer', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:09:11.834816: [CMD] (שמוליק המלך (נטוהטאבטב#3288: '!nick boob the builder', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:10:46.875991: [CMD] DMCPACKS#9619: '!nick poutaitou', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:16:17.793869: [CMD] slixvel#1085: '!rate dead', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:23:08.742391: [CMD] çal#8678: '!nick PussySlayer', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:23:26.579525: [CMD] LaSugma#9324: '!pp', Guild: horknee lang kame, Channel: ・bots
+13:24:35.580241: [CMD] lordcenturione#2300: '!rate dead', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:31:41.830754: [CMD] saturn5Vfive#0079: '!rate j', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:31:52.115444: [CMD] saturn5Vfive#0079: '!rate j', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:31:59.072637: [CMD] saturn5Vfive#0079: '!rate j', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:41:25.896176: [CMD] du5ty#0976: '!rate gay', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:51:21.828233: [CMD] Apophis#6173: '!help', Guild: William Shakespeare Official Fanclub, Channel: memes
+13:56:49.660409: [CMD] DMCPACKS#9619: '!banned', Guild: William Shakespeare Official Fanclub, Channel: memes
+14:14:24.904255: [CMD] LaSugma#9324: '!pp', Guild: horknee lang kame, Channel: ・bots
+14:15:45.024438: [CMD] Dopichu#1541: '!r in yo mom', Guild: joe inc., Channel: bot
+14:24:22.230309: [CMD] Apophis#6173: '!alt', Guild: William Shakespeare Official Fanclub, Channel: memes
+15:08:29.119549: [CMD] mariyt#0420: '!nick', Guild: William Shakespeare Official Fanclub, Channel: memes
+15:08:31.828149: [CMD] mariyt#0420: '!banned', Guild: William Shakespeare Official Fanclub, Channel: memes
