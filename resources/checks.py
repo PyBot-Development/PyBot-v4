@@ -61,7 +61,7 @@ def default():
             await ctx.message.add_reaction("❌")
             await ctx.send(embed=discord.Embed(description="❌ Sorry, but some word isn't allowed here.", color=colours.blue), delete_after=10)
             return False
-        elif await GLOBAL_DATABASE.CHANNEL_CHECK(ctx.message.channel) or await LOCAL_DATABASE.CHANNEL_CHECK(ctx.message.guild, ctx.message.channel):
+        elif await GLOBAL_DATABASE.CHANNEL_CHECK(ctx.message.channel) or await LOCAL_DATABASE.CHANNEL_CHECK(guild, ctx.message.channel):
             await ctx.message.add_reaction("❌")
             channel=await ctx.message.author.create_dm()
             await channel.send(embed=discord.Embed(description=f"Channel {ctx.message.channel.mention} is not allowed. Try again in different one.", color=colours.blue))
