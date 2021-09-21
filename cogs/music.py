@@ -25,16 +25,14 @@ ytdl_format_options = {
 }
 
 ffmpeg_options = {
-    'options': '-vn'
+    'options': '-vn',
+    'before_options': '-reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5'
 }
 
 ytdl = youtube_dl.YoutubeDL(ytdl_format_options)
-songs = asyncio.Queue()
-play_next_song = asyncio.Event()
-
 
 class YTDLSource(discord.PCMVolumeTransformer):
-    def __init__(self, source, *, data, volume=1):
+    def __init__(self, source, *, data, volume=.5):
         super().__init__(source, volume)
 
         self.data = data
@@ -82,7 +80,6 @@ class Music(commands.Cog):
             player = await YTDLSource.from_url(url, loop=self.bot.loop, stream=True)
             ctx.voice_client.play(player, after=lambda e: print('Player error: %s' % e) if e else None)
 
-        await songs.put(player)
         await ctx.send(embed=discord.Embed(
             description='Now playing: {}'.format(player.title),
             color=colours.blue
