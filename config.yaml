@@ -10,6 +10,7 @@ debug: False
 Run-Server: True
 Server-Key: C1EwnVfE0vwOaTnTQxzLo5Qp83vXmRvGX0YRZjirIwphLZqOWUx8RUOQKTihNrZo9Jl7JMxXF2IapK8
 Server-Port: 80 # Default HTTP port
+Running-On-Linux: False 
 
 # REDDIT
 Client_Secret: cTwvO_kcTn0_ODvk25LjhPNjNI18GA
