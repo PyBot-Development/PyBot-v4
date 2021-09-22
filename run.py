@@ -14,7 +14,7 @@ __title__ = 'Pybot'
 __author__ = 'mariyt10'
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2021-2021 mariyt10'
-__version__ = '1.6.0'
+__version__ = '1.7.0'
 
 from discord.ext import commands
 import os
