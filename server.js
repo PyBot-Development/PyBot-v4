@@ -60,6 +60,7 @@ app.get('/', (req, res) => {
   const date = `${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}.${d.getMilliseconds()}`
   var ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress 
   console.log(`${bgBlack}${white}${date}${reset}: ${green}[SERVER][/] ${yellow}${ip} ${green}GET LOGS${reset}`)
+  res.set('Access-Control-Allow-Origin', '*');
   res.json(logs)
 })
 app.get('/.well-known/acme-challenge/Lke6dOC_yllj1Vy36XYjKLIkLWx58iOQ2lUS_oIRook', (req, res) => {
@@ -115,6 +116,7 @@ app.get('/status', (req, res) => {
   const date = `${d.getHours()}:${d.getMinutes()}:${d.getSeconds()}.${d.getMilliseconds()}`
   var ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress 
   console.log(`${bgBlack}${white}${date}${reset}: ${green}[SERVER][/status] ${yellow}${ip} ${green}GET STATUS${reset}`)
+  res.set('Access-Control-Allow-Origin', '*');
   res.json(bot_status)
 })
 

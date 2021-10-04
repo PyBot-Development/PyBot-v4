@@ -12,14 +12,15 @@ class loop(commands.Cog, name="loop"):
             self.server_status.start()
         self.alts = len(support.alts)
         self.startup_timestamp = datetime.datetime.utcnow().timestamp()
-    @tasks.loop(minutes=1)
+    @tasks.loop(seconds=10)
     async def server_status(self):
         key = support.config.get("Server-Key")
         port = support.config.get("Server-Port")
         date = datetime.datetime.utcnow()
         status = {
-            "last_update": f"{date} UTC",
-            "last_update_timestamp": f"{date.timestamp()}",
+            "online": True,
+            "last_status_update": f"{date} UTC",
+            "last_status_update_timestamp": f"{date.timestamp()}",
 
             "startup_date": f"{support.startup_date}",
             "startup_date_timestamp": f"{support.startup_timestamp}",
@@ -33,7 +34,7 @@ class loop(commands.Cog, name="loop"):
             "global_badwords": f"{await GLOBAL_DATABASE.GET_BADWORDS()}",
             "global_disabled_commands_count": f"{len(await GLOBAL_DATABASE.GET_DISABLED_COMMANDS())}",
             "global_disabled_commands": f"{await GLOBAL_DATABASE.GET_DISABLED_COMMANDS()}",
-            
+
             "version": f"{__version__}",
         }
         requests.post(url=f"http://localhost:{port}/set-status?key={key}", data=status, json=status)
