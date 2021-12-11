@@ -1,5 +1,5 @@
 # BOT
-token: ODg1NjMxMDEzODQ0MjkxNjc0.YTp2Jw.07PBVwN7y_-Yio3uF593J10J-cs
+token: ODg1NjMxMDEzODQ0MjkxNjc0.YTp2Jw.07PBVwN7y_-Yio3uF593J10J-cs # The token is regenerated you cannot do anything with it retard
 self-bot: False
 prefix: "!"
 cooldown: 2
@@ -13,6 +13,6 @@ Server-Port: 80 # Default HTTP port
 Running-On-Linux: True 
 
 # REDDIT
-Client_Secret: cTwvO_kcTn0_ODvk25LjhPNjNI18GA
+Client_Secret: cTwvO_kcTn0_ODvk25LjhPNjNI18GA # These too
 Client_Id: yXZQtks0llJc6YdPdxsrDA
 User_Agent: M2rsho
